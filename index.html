@@ -4,9 +4,55 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="styles.css">
-    <title>Afro-Shop finder</title>
+    <title>Afro-Shop Finder</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/fontawesome.min.css" integrity="sha512-8jdwayz5n8F2cnW26l9vpV6+yGOcRAqz6HTu+DQ3FtVIAts2gTdlFZOGpYhvBMXkWEgxPN3Y22UWyZXuDowNLA==" crossorigin="anonymous" />
 </head>
 <body>
+
+    <div class="top-container">
+        <div>
+            <nav class="main-navbar">
+                <ul>
+                    <!--Button with dropdown menu -->
+                    <input type="text" placeholder="City or ZIP" class="main-searchbar"> <!--Insert -->
+                    <button class="main-navbar-btn" id="shops-btn">Shops</button>
+                    <button class="main-navbar-btn" id="restaurants-btn">Restaurants</button>
+                    <button class="main-navbar-btn" id="clubs-btn">Clubs</button>
+                    <button class="main-navbar-btn" id="save-btn">Save Search</button>
+                </ul>
+            </nav>
+        </div>
+        <div>
+            <header class="header">
+                <h1>Afro Shop Finder™</h1>
+            </header>
+        </div>
+        <div>
+            <nav class="topnav">
+                <ul>
+                    <a href="#" id="advertise">Advertise</a>
+                    <a href="#" id="login">Sign in or join</a>
+                    <a href="#" id="help">Help</a>
+                </ul>
+            </nav>  
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="map-container" id="map-container"></div>
+        <div class="search-results" id="search-results"></div>
+    </div>
+
+    <nav class="bottom-nav">
+        <ul>
+            <a href="#">About</a>
+            <a href="#">Privacy Portal</a>
+            <a href="#">Cookie Preference</a>
+            <a href="#">Terms of use</a>
+        </ul>
+    </nav>
     
+
+    <script src="main.js"></script>
 </body>
 </html>
