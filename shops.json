@@ -153,5 +153,320 @@
         "coords": "{lat: 49.0070811, lng: 8.3949841}",
         "infos": "`Nancy's AFRO, <br> Hauptstätter Straße 68, 70178 Stuttgart <br> Phone: 0711 9641202`"
     },
+    {
+        "name": "Lina Afro Hair Braiding",
+        "city": "Stuttgart",
+        "zipCode": "70193",
+        "coords": "{lat: 48.7756124, lng: 9.1560967}",
+        "infos": "`Lina Afro Hair Braiding, <br> Schwabstraße 60, 70193 Stuttgart <br> Phone: 01573 6033917`"
+    },
+    {
+        "name": "Sis Jud Afro Hair Studio",
+        "city": "Stuttgart",
+        "zipCode": "70178",
+        "coords": "{lat: 48.7859593, lng: 9.1937824}",
+        "infos": "`Sis Jud Afro Hair Studio, <br> Werastraße 93, 70190 Stuttgart <br> Phone: 0711 67418797`"
+    },
+    {
+        "name": "Afroshop Moko",
+        "city": "Stuttgart",
+        "zipCode": "70190",
+        "coords": "{lat: 48.7870074, lng: 9.193297}",
+        "infos": "`Afroshop Moko, <br> Staffelstraße 5, 70190 Stuttgart <br> Phone: 0711 2200680`"
+    },
+    {
+        "name": "Afro American Cosmetic Shop",
+        "city": "Stuttgart",
+        "zipCode": "70176",
+        "coords": "{lat: 48.7746981, lng: 9.1654562}",
+        "infos": "`Afro American Cosmetic Shop, <br> Silberburgstraße 138, 70716 Stuttgart <br> Phone: 0711 6150479`"
+    },
+    {
+        "name": "Multi Beauty Center ( Afro Shop)",
+        "city": "Stuttgart",
+        "zipCode": "70190",
+        "coords": "{lat: 48.7757182, lng: 9.1655466}",
+        "infos": "`Multi Beauty Center ( Afro Shop), <br> Silberburgstraße 129 A, 70176 Stuttgart <br> Phone: 0711 65864010`"
+    },
+    {
+        "name": "GT World Of Beauty GmbH Stuttgart",
+        "city": "Stuttgart",
+        "zipCode": "70178",
+        "coords": "{lat: 48.7657964, lng: 9.1688084}",
+        "infos": "`GT World Of Beauty GmbH Stuttgart, <br> Tübinger Straße 84, 70178 Stuttgart <br> Phone: 0711 246215`"
+    },
+    {
+        "name": "Papa's Afroshop Im- u. Export",
+        "city": "Stuttgart",
+        "zipCode": "70499",
+        "coords": "{lat: 48.8144751, lng: 9.1135115}",
+        "infos": "`Papa's Afroshop Im- u. Export, <br> Löwen-Markt 5, 70499 Stuttgart <br> Phone: 0711 8875567`"
+    },
+    {
+        "name": "Todd International Hair Salon",
+        "city": "Stuttgart",
+        "zipCode": "70182",
+        "coords": "{lat: 48.773156, lng: 9.1824219}",
+        "infos": "`Todd International Hair Salon, <br> Pfarrstraße 19, 70182 Stuttgart <br> Phone: 01525 4258538`"
+    },
+    {
+        "name": "Afrika Bella",
+        "city": "Stuttgart",
+        "zipCode": "70376",
+        "coords": "{lat: 48.8078798, lng: 9.2105182}",
+        "infos": "`Afrika Bella, <br> Brückenstraße 35, 70376 Stuttgart <br> Phone: 0711 34133110`"
+    },
+    {
+        "name": "AFRO FRESH oHG",
+        "city": "Stuttgart",
+        "zipCode": "70437",
+        "coords": "{lat: 48.8317221, lng: 9.1905335}",
+        "infos": "`AFRO FRESH oHG, <br> Haldenrainstraße 124, 70437 Stuttgart <br> Phone: 0711 50453385`"
+    },
+    {
+        "name": "Divine Design African Shop",
+        "city": "Stuttgart",
+        "zipCode": "70178",
+        "coords": "{lat: 48.7635312, lng: 9.1658761}",
+        "infos": "`Divine Design African Shop, <br> Tannenstraße, 70178 Stuttgart <br> Phone: 0711 241303`"
+    },
+    {
+        "name": "Afroshop- Mononi-modaya",
+        "city": "Pforzheim",
+        "zipCode": "75175",
+        "coords": "{lat: 48.887793, lng: 8.7053434}",
+        "infos": "`Afroshop- Mononi-modaya, <br> Schelmenturmstraße 4, 75175 Pforzheim <br> Phone: 07231 418805`"
+    },
+    {
+        "name": "Afro Store Tübingen",
+        "city": "Tübingen",
+        "zipCode": "72072",
+        "coords": "{lat: 48.5177349, lng: 9.0598754}",
+        "infos": "`Afro Store Tübingen, <br> Friedrichstraße 11, 72072 Tübingen <br> Phone: 07071 365545`"
+    },
+    {
+        "name": "Afro Indien Store",
+        "city": "Tübingen",
+        "zipCode": "72074",
+        "coords": "{lat: 48.5194155, lng: 9.0599195}",
+        "infos": "`Afro Indien Store, <br> Gartenstraße 9/1, 72074 Tübingen <br> Phone: 07071 8895781`"
+    },
+    {
+        "name": "Daimina Zinaria Afroshop",
+        "city": "Ulm",
+        "zipCode": "89073",
+        "coords": "{lat: 48.4000897, lng: 9.9876261}",
+        "infos": "`Daimina Zinaria Afroshop, <br> Wengengasse 18, 89073 Ulm <br> Phone: 0731 9214849`"
+    },
+    {
+        "name": "Afro-Collection",
+        "city": "Ulm",
+        "zipCode": "89073",
+        "coords": "{lat: 48.4002518, lng: 9.993289}",
+        "infos": "`Afro-Collection, <br> Herrenkellergasse 22, 89073 Ulm <br> Phone: 0731 67664`"
+    },
+    {
+        "name": "Marthely Afro Shop°",
+        "city": "Augsburg",
+        "zipCode": "86154",
+        "coords": "{lat: 48.3867407, lng: 10.8802803}",
+        "infos": "`Marthely Afro Shop°, <br> Donauwörther Straße 79, 86154 Augsburg <br> Phone: 0821 54387353`"
+    },
+    {
+        "name": "Afro American Hair & Cosmetic Shop",
+        "city": "Augsburg",
+        "zipCode": "86150",
+        "coords": "{lat: 48.3660752, lng: 10.8819237}",
+        "infos": "`Afro American Hair & Cosmetic Shop, <br> Pferseer Straße 10, 86150 Augsburg <br> Phone: 0821 44981786`"
+    },
+    {
+        "name": "AFRO - COLLECTION",
+        "city": "Augsburg",
+        "zipCode": "86150",
+        "coords": "{lat: 48.3651079, lng: 10.888507}",
+        "infos": "`AFRO - COLLECTION, <br> Halderstraße 29, 86150 Augsburg <br> Phone: 0821 153812`"
+    },
+    {
+        "name": "Afro Shop - Chez Nicole",
+        "city": "Munich",
+        "zipCode": "81677",
+        "coords": "{lat: 48.1371553, lng: 11.6156806}",
+        "infos": "`Afro Shop - Chez Nicole, <br> Einsteinstraße 163, 81677 Munich <br> Phone: 089 41189816`"
+    },
+    {
+        "name": "Afrokings & Ebony Beauty",
+        "city": "Munich",
+        "zipCode": "80336",
+        "coords": "{lat: 48.1386773, lng: 11.5514202}",
+        "infos": "`Afrokings & Ebony Beauty, <br> Hermann-Lingg-Straße 2, 80336 Munich <br> Phone: 089 21949356`"
+    },
+    {
+        "name": "Afro Shop",
+        "city": "Munich",
+        "zipCode": "80336",
+        "coords": "{lat: 48.1383509, lng: 11.5587761}",
+        "infos": "`Afro Shop, <br> Goethe Center, Goethe Straße 7, 80336 Munich <br> Phone: 089 54506753`"
+    },
+    {
+        "name": "Sandra Afro Shop",
+        "city": "Munich",
+        "zipCode": "80687",
+        "coords": "{lat: 48.1412119, lng: 11.5029238}",
+        "infos": "`Sandra Afro Shop, <br> Fürstenrieder Straße 14, 80687 Munich <br> Phone: 0173 2635739`"
+    },
+    {
+        "name": "AFROSHOP TESTEC BEAUTY WORLD",
+        "city": "Munich",
+        "zipCode": "80336",
+        "coords": "{lat: 48.1364614, lng: 11.5596857}",
+        "infos": "`AFROSHOP TESTEC BEAUTY WORLD, <br> Landwehrstraße 34, 80336 Munich <br> Phone: 089 62246601`"
+    },
+    {
+        "name": "Kaschmir Basar",
+        "city": "Munich",
+        "zipCode": "80336",
+        "coords": "{lat: 48.1364547, lng: 11.5546651}",
+        "infos": "`Kaschmir Basar, <br> Landwehrstraße 64, 80336 Munich <br> Phone: 089 54547894`"
+    },
+    {
+        "name": "Behold Afroshop München",
+        "city": "Munich",
+        "zipCode": "80336",
+        "coords": "{lat: 48.1364896, lng: 11.5535915}",
+        "infos": "`Behold Afroshop München, <br> Landwehrstraße 72, 80336 Munich <br> Phone: 089 23153113`"
+    },
+    {
+        "name": "Casa Tropicana Afro Brasil Shop",
+        "city": "Munich",
+        "zipCode": "80339",
+        "coords": "{lat: 48.1382373, lng: 11.5456347}",
+        "infos": "`Casa Tropicana Afro Brasil Shop, <br> Holzapfelstraße 8, 80339 Munich <br> Phone: 089 45219714`"
+    },
+    {
+        "name": "Afro Look Design",
+        "city": "Munich",
+        "zipCode": "80339",
+        "coords": "{lat: 48.138392, lng: 11.5449765}",
+        "infos": "`Afro Look Design, <br> Westendstraße 45, 80339 Munich <br> Phone: 0175 1980187`"
+    },
+    {
+        "name": "Afro Nice Price",
+        "city": "Munich",
+        "zipCode": "80336",
+        "coords": "{lat: 48.1351443, lng: 11.555972}",
+        "infos": "`Afro Nice Price, <br> Paul-Heyse-Straße 37, 80336 Munich <br> Phone: 089 37985674`"
+    },
+    {
+        "name": "Afro Star Shop",
+        "city": "Munich",
+        "zipCode": "81541",
+        "coords": "{lat: 48.1184746, lng: 11.5815325}",
+        "infos": "`Afro Star Shop, <br> Edelweißstraße 10, 81541 Munich <br> Phone: 089 69375682`"
+    },
+    {
+        "name": "Black & White Afro-Shop",
+        "city": "Munich",
+        "zipCode": "80637",
+        "coords": "{lat: 48.1598563, lng: 11.5465444}",
+        "infos": "`Black & White Afro-Shop, <br> Dachauer Straße 185, 80637 Munich <br> Phone: 089 155055`"
+    },
+    {
+        "name": "ETHNIC HAIR & BEAUTY SALON",
+        "city": "Munich",
+        "zipCode": "80805",
+        "coords": "{lat: 48.1686998, lng: 11.592801}",
+        "infos": "`ETHNIC HAIR & BEAUTY SALON, <br> Ungerer Straße 80, 80805 Munich <br> Phone: 089 74039694`"
+    },
+    {
+        "name": "Haarstudio Barbara Holmes GmbH",
+        "city": "Munich",
+        "zipCode": "80333",
+        "coords": "{lat: 48.1486018, lng: 11.5627705}",
+        "infos": "`Haarstudio Barbara Holmes GmbH, <br> Augustenstraße 58, 80333 Munich <br> Phone: 089 598135`"
+    },
+    {
+        "name": "Ebone Hairshop",
+        "city": "Munich",
+        "zipCode": "80802",
+        "coords": "{lat: 48.1665, lng: 11.5903}",
+        "infos": "`Ebone Hairshop, <br> Leopolstraße 122A, 80802 Munich <br> Phone: 089 345613`"
+    },
+    {
+        "name": "Afrokunst",
+        "city": "Munich",
+        "zipCode": "80798",
+        "coords": "{lat: 48.1530415, lng: 11.5656466}",
+        "infos": "`Afrokunst, <br> Augustenstraße 104, 80798 Munich <br> Phone: 089 562873`"
+    },
+    {
+        "name": "L. Chanto",
+        "city": "Munich",
+        "zipCode": "81371",
+        "coords": "{lat: 48.1665, lng: 11.5903}",
+        "infos": "`L. Chanto, <br> Brudermühlstraße 3, 81371 Munich <br> Phone: 089 345613`"
+    },
+    {
+        "name": "Kaiser Afroculture",
+        "city": "Regensburg",
+        "zipCode": "93047",
+        "coords": "{lat: 49.0168643, lng: 12.0951703}",
+        "infos": "`Kaiser Afroculture, <br> Obermünsterstraße 3, 93047 Regensburg <br> Phone: 0941 50275808`"
+    },
+    {
+        "name": "Laas: Leah's American African Afro Shop",
+        "city": "Regensburg",
+        "zipCode": "93055",
+        "coords": "{lat: 49.0174669, lng: 12.1124053}",
+        "infos": "`Laas: Leah's American African Afro Shop, <br> Weißenburgstraße 5, 93055 Regensburg <br> Phone: 01573 2527449`"
+    },
+    {
+        "name": "Afro Shop",
+        "city": "Regensburg",
+        "zipCode": "93047",
+        "coords": "{lat: 49.0160165, lng: 12.1008603}",
+        "infos": "`Afro Shop, <br> Am Königshof 2, 93047 Regensburg <br> Phone: 0941 89966549`"
+    },
+    {
+        "name": "Afro Vision Oranye",
+        "city": "Regensburg",
+        "zipCode": "93047",
+        "coords": "{lat: 49.0169156, lng: 12.0962386}",
+        "infos": "`Afro Vision Oranye, <br> Malergasse 14, 93047 Regensburg <br> Phone: 0941 5047681`"
+    },
+    {
+        "name": "Unique Afro Shop Landshut",
+        "city": "Landshut",
+        "zipCode": "84034",
+        "coords": "{lat: 48.5449433, lng: 12.1433138}",
+        "infos": "`Unique Afro Shop Landshut, <br> Seligenthaler Straße 27, 84034 Landshut <br> Phone: 0871 3192311`"
+    },
+    {
+        "name": "Afro Friseur Freising",
+        "city": "Freising",
+        "zipCode": "85356",
+        "coords": "{lat: 48.3924, lng: 11.7569}",
+        "infos": "`Afro Friseur Freising, <br> Königsfelstraße 11, 85356 Freising <br> Phone: 0176 72238844`"
+    },
+    {
+        "name": "Joana Afro Beauty Salon",
+        "city": "Freising",
+        "zipCode": "85356",
+        "coords": "{lat: 48.3924, lng: 11.7569}",
+        "infos": "`Joana Afro Beauty Salon, <br> Königsfelstraße 11, 85356 Freising <br> Phone: 0176 72238844`"
+    },
+    {
+        "name": "Jambo Afro Shop",
+        "city": "Ingolstadt",
+        "zipCode": "85049",
+        "coords": "{lat: 48.7657038, lng: 11.4291539}",
+        "infos": "`Jambo Afro Shop, <br> Beckerstraße 21/2, 85049 Ingolstadt`"
+    },
+    {
+        "name": "Asmara Afroshop",
+        "city": "Ingolstadt",
+        "zipCode": "85051",
+        "coords": "{lat: 48.7406093, lng: 11.437374}",
+        "infos": "`Asmara Afroshop, <br> Elisabethstraße 3, 85051 Ingolstadt <br> Phone: 0841 99399`"
+    }
 
 ]
