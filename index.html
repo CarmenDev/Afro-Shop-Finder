@@ -39,8 +39,10 @@
     </div>
 
     <div class="container">
-        <div class="map-container" id="map-container"></div>
-        <div class="search-results" id="search-results"></div>
+        <div class="map-container" id="map-container">
+
+        </div>
+        <div class="search_results" id="search_results"></div>
     </div>
 
     <nav class="bottom-nav">
@@ -52,7 +54,20 @@
         </ul>
     </nav>
     
+    <script>
+        function initMap() {
+            // map otions
+            const options = {
+                zoom: 8,
+                center: {lat: 53.5511, lng: 9.9937}
+            }
 
+            const map = new google.maps.Map(document.getElementById('map-container'), options);
+        }
+    </script>
     <script src="main.js"></script>
+    <script defer
+  src="https://maps.googleapis.com/maps/api/js?key=AIzaSyD8hRNejxMqGxEuco3smx-YoVc3uYJLnsI&callback=initMap">
+</script>
 </body>
 </html>

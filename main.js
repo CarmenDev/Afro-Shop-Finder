@@ -25,7 +25,7 @@ const restaurants_btn = document.getElementById('restaurants-btn');
 const clubs_btn = document.getElementById('clubs-btn');
 const save_btn = document.getElementById('save-btn');
 
-const search_results = document.querySelector('.search-results');
+const search_results = document.querySelector('.search_results');
 
 // Buttons functions
 advertise_btn.addEventListener('click', getAd);
@@ -40,9 +40,11 @@ function getHelp(e) {
     const paraHelp = document.createElement('p');
     paraHelp.innerHTML = 'We are not available at the moment, please try again later.';
     const helpMeme = document.createElement('div');
+    helpMeme.classList.add('helpmeme');
     helpMeme.innerHTML = '<iframe src="https://giphy.com/embed/UVeILcYrYq2PpTE4u6" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/king-of-boys-kingofboys-kemi-salami-UVeILcYrYq2PpTE4u6"></a></p>';
     search_results.appendChild(paraHelp);
     search_results.appendChild(helpMeme);
+
 };
 
 
