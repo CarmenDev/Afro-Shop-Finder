@@ -14,6 +14,33 @@
 // When you click on "Help", a message that has to do with you getting help will appear on the right side. I should think of a joke with a meme.
 // Saving your search should be an option with the button "Save search" --> localStorage
 
+
+// Google maps API
+function initMap() {
+    // Map otions
+    const options = {
+        zoom: 8,
+        center: {lat: 53.5511, lng: 9.9937}
+    }
+    // New map
+    const map = new google.maps.Map(document.getElementById('map-container'), options);
+
+//     // Add marker
+//     let marker = new google.maps.Marker({
+//         position: {lat: 53.5908, lng: 9.9316},
+//         map: map
+//     });
+    
+    addMarker({lat: 53.5511, lng: 9.9937});
+    // Add Marker Function
+    function addMarker(coords) {
+        let marker = new google.maps.Marker({
+            position: coords,
+            map: map
+        });
+    }
+}
+
 // Buttons and search bar
 const advertise_btn = document.getElementById('advertise');
 const login_btn = document.getElementById('login');
