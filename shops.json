@@ -467,6 +467,208 @@
         "zipCode": "85051",
         "coords": "{lat: 48.7406093, lng: 11.437374}",
         "infos": "`Asmara Afroshop, <br> Elisabethstraße 3, 85051 Ingolstadt <br> Phone: 0841 99399`"
-    }
-
+    },
+    {
+        "name": "Vivis Afro Shop",
+        "city": "Kempten",
+        "zipCode": "87435",
+        "coords": "{lat: 47.7249214, lng: 10.3212087}",
+        "infos": "`Vivis Afro Shop, <br> Bäckerstraße 16, 87435 Kempten (Allgäu) <br> Phone: 01638030075`"
+    },
+    {
+        "name": "Jenny's Afro Shop",
+        "city": "Memmingen",
+        "zipCode": "87700",
+        "coords": "{lat: 47.9859226, lng: 10.1838313}",
+        "infos": "`Jenny's Afro Shop, <br> Hinter dem Salzstadel 7, 87700 Memmingen <br> Phone: 01639862079`"
+    },
+    {
+        "name": "Patis Afro Shop Kempten/Weidach/Durach",
+        "city": "Durach",
+        "zipCode": "87471",
+        "coords": "{lat: 47.6948247, lng: 10.3321378}",
+        "infos": "`Patis Afro Shop, <br> Duracher Straße 11, 87471 Durach <br> Phone: 01573 3246937`"
+    },
+    {
+        "name": "Afro American Barber Shop",
+        "city": "Nuremberg",
+        "zipCode": "90459",
+        "coords": "{lat: 49.4354211, lng: 11.0841414}",
+        "infos": "`Afro American Barber Shop, <br> Pillenreuther Straße 10, 90459 Nuremberg <br> Phone: 0173 5854392`"
+    }, 
+    {
+        "name": "GT World Of Beauty GmbH Nürnberg",
+        "city": "Nuremberg",
+        "zipCode": "90459",
+        "coords": "{lat: 49.4432023, lng: 11.0812929}",
+        "infos": "`GT World Of Beauty GmbH Nürnberg, <br> Pillenreuther Straße 7, 90459 Nuremberg <br> Phone: 0911 4501541`"
+    },
+    {
+        "name": "Hairstylistin Sarah",
+        "city": "Nuremberg",
+        "zipCode": "90459",
+        "coords": "{lat: 49.4426311, lng: 11.0789376}",
+        "infos": "`Hairstylistin Sarah, <br> Karl-Bröger-Straße 21, 90459 Nuremberg <br> Phone: 0176 320 55393`"
+    },
+    {
+        "name": "das Rastaforum",
+        "city": "Nuremberg",
+        "zipCode": "90443",
+        "coords": "{lat: 49.4298308, lng: 11.0656303}",
+        "infos": "`das Rastaforum, <br> Gibitzenhofstraße 166, 90443 Nuremberg <br> Phone: 0178 5329323`"
+    },
+    {
+        "name": "Royal AfroCenter",
+        "city": "Fürth",
+        "zipCode": "90762",
+        "coords": "{lat: 49.469845, lng: 11.0038208}",
+        "infos": "`Royal AfroCenter, <br> Lange Straße 37, 90762 Fürth <br> Phone: 0911 705506`"
+    },
+    {
+        "name": "Afro-Shop Aschaffenburg - African Pride & Beauty Palace",
+        "city": "Aschaffenburg",
+        "zipCode": "63739",
+        "coords": "{lat: 49.9745467, lng: 9.1464923}",
+        "infos": "`Afro-Shop Aschaffenburg - African Pride & Beauty Palace, <br> Landingstraße 8, 63739 Aschaffenburg <br> Phone: 0176 43481575`"
+    },
+    {
+        "name": "Ando´s Afro & Rasta Shop e.K.",
+        "city": "Bamberg",
+        "zipCode": "96052",
+        "coords": "{lat: 49.8969661, lng: 10.8954037}",
+        "infos": "`Ando´s Afro & Rasta Shop e.K., <br> Obere Königstraße 53, 96052 Bamberg <br> Phone: 0951 1869470`"
+    },
+    {
+        "name": "Rastazoepfe Aschaffenburg - African Feeling & Hairstyle, Amie Sonko",
+        "city": "Mainaschaff",
+        "zipCode": "63814",
+        "coords": "{lat: 49.9841222, lng: 9.0711023}",
+        "infos": "`Rastazoepfe Aschaffenburg - <br> African Feeling & Hairstyle, Amie Sonko, <br> Mainparkstraße 2, 63814 Mainaschaff <br> Phone: 0175 8786591`"
+    },
+    {
+        "name": "Paradise Afro Shop",
+        "city": "Aschaffenburg",
+        "zipCode": "63739",
+        "coords": "{lat: 49.9787478, lng: 9.149545}",
+        "infos": "`Paradise Afro Shop, <br> Elisenstraße 6, 63739 Aschaffenburg <br> Phone: 06021 4941837`"
+    },
+    {
+        "name": "AFRO-ASIA SHOP",
+        "city": "Hanau",
+        "zipCode": "63450",
+        "coords": "{lat: 50.1369196, lng: 8.9141929}",
+        "infos": "`AFRO-ASIA SHOP, <br> Hospitalstraße 18, 63450 Hanau <br> Phone: 06181 4348730`"
+    },
+    {
+        "name": "Dominic's Barber Shop",
+        "city": "Hanau",
+        "zipCode": "63450",
+        "coords": "{lat: 50.1344195, lng: 8.9116703}",
+        "infos": "`Dominic's Barber Shop, <br> Herrnstraße 27, 63450 Hanau <br> Phone: 06181 5080079`"
+    },
+    {
+        "name": "Salem's Afro Hair Salon",
+        "city": "Frankfurt am Main",
+        "zipCode": "60327",
+        "coords": "{lat: 50.1018694, lng: 8.660285}",
+        "infos": "`Salem's Afro Hair Salon, <br> Gutleutstraße 155, 60327 Frankfurt am Main <br> Phone: 069 677777060`"
+    },
+    {
+        "name": "RIGBEAUTY Hair & Cosmetics",
+        "city": "Frankfurt am Main",
+        "zipCode": "60329",
+        "coords": "{lat: 50.1047111, lng: 8.6649488}",
+        "infos": "`RIGBEAUTY Hair & Cosmetics, <br> Baseler Straße 46, 60329 Frankfurt am Main <br> Phone: 069 27220778`"
+    },
+    {
+        "name": "GT World Of Beauty GmbH Frankfurt",
+        "city": "Frankfurt am Main",
+        "zipCode": "60329",
+        "coords": "{lat: 50.1083749, lng: 8.6640864}",
+        "infos": "`GT World Of Beauty GmbH Frankfurt, <br> Am Hauptbahnhof 16, 60329 Frankfurt am Main <br> Phone: 069 24278737`"
+    },
+    {
+        "name": "Las Bonitas, Salon de Belleza, Afro hair salon, Nagelstudio",
+        "city": "Frankfurt am Main",
+        "zipCode": "60329",
+        "coords": "{lat: 50.1083201, lng: 8.6675109}",
+        "infos": "`Las Bonitas, Salon de Belleza, <br> Afro hair salon, Nagelstudio, <br> Kaiserstraße 60, 60329 Frankfurt am Main <br> Phone: 069 36707610`"
+    },
+    {
+        "name": "V.I.P. HAIR AND COSMETICS e.K.",
+        "city": "Frankfurt am Main",
+        "zipCode": "60329",
+        "coords": "{lat: 50.1083119, lng: 8.6630146}",
+        "infos": "`V.I.P. HAIR AND COSMETICS e.K., <br> Düsseldorfer Straße 12, 60329 Frankfurt am Main <br> Phone: 01521 2830094`"
+    },
+    {
+        "name": "Kaneshie African Shop",
+        "city": "Frankfurt am Main",
+        "zipCode": "60329",
+        "coords": "{lat: 50.1092692, lng: 8.6646385}",
+        "infos": "`Kaneshie African Shop, <br> Moselstraße 51, 60329 Frankfurt am Main <br> Phone: 069 29728585`"
+    },
+    {
+        "name": "African Shop",
+        "city": "Frankfurt am Main",
+        "zipCode": "60329",
+        "coords": "{lat: 50.1058578, lng: 8.665618}",
+        "infos": "`African Shop, <br> Wiesenhüttenstraße 39, 60329 Frankfurt am Main <br> Phone: 069 26010327`"
+    },
+    {
+        "name": "African Bazaar",
+        "city": "Frankfurt am Main",
+        "zipCode": "60329",
+        "coords": "{lat: 50.1092692, lng: 8.6587665}",
+        "infos": "`African Bazaar, <br> Mainzer Landstraße 107, 60329 Frankfurt am Main <br> Phone: 069 259488`"
+    },
+    {
+        "name": "African Shop. Chimafro",
+        "city": "Frankfurt am Main",
+        "zipCode": "60311",
+        "coords": "{lat: 50.1129944, lng: 8.6924993}",
+        "infos": "`African Shop. Chimafro, <br> Battonnstraße 5, 60311 Frankfurt am Main <br> Phone: 069 15340968`"
+    },
+    {
+        "name": "Black Hair Saloon",
+        "city": "Frankfurt am Main",
+        "zipCode": "60327",
+        "coords": "{lat: 50.1027806, lng: 8.6622099}",
+        "infos": "`Black Hair Saloon, <br>Gutleutstraße 127, 60327 Frankfurt am Main <br> Phone: 069 251917`"
+    },
+    {
+        "name": "BZ Beauty Zone Inh. Tinsaeberhan Garza",
+        "city": "Frankfurt am Main",
+        "zipCode": "60329",
+        "coords": "{lat: 50.1089833, lng: 8.6620971}",
+        "infos": "`BZ Beauty Zone Inh. Tinsaeberhan Garza, <br> Düsseldorfer Straße 14, 60329 Frankfurt am Main <br> Phone: 069 24277711`"
+    },
+    {
+        "name": "Bob's Hair Base",
+        "city": "Frankfurt am Main",
+        "zipCode": "60327",
+        "coords": "{lat: 50.1083652, lng: 8.6572884}",
+        "infos": "`Bob's Hair Base, <br> Mainzer Landstraße 114, 60327 Frankfurt am Main <br> Phone: 069 74745805`"
+    },
+    {
+        "name": "T.k. Asia Afro Supermarket / Yazhakam",
+        "city": "Frankfurt am Main",
+        "zipCode": "65929",
+        "coords": "{lat: 50.1011531, lng: 8.5476359}",
+        "infos": "`T.k. Asia Afro Supermarket / Yazhakam, <br> Emmerich-Josef-Straße 27, 65929 Frankfurt am Main <br> Phone: 01521 6171713`"
+    },
+    {
+        "name": "Chriskes Afro Shop",
+        "city": "Wiesbaden",
+        "zipCode": "65185",
+        "coords": "{lat: 50.0777863, lng: 8.2358056}",
+        "infos": "`Chriskes Afro Shop, <br> Rheinstraße 69, 65185 Wiesbaden <br> Phone: 0611 18171740`"
+    },
+    {
+        "name": "Afro-Shop Si.",
+        "city": "Worms",
+        "zipCode": "67547",
+        "coords": "{lat: 49.6360623, lng: 8.3643195}",
+        "infos": "`Afro-Shop Si., <br> Mainzer Straße 11, 67547 Worms <br> Phone: 01521 4369849`"
+    },
 ]
