@@ -671,4 +671,533 @@
         "coords": "{lat: 49.6360623, lng: 8.3643195}",
         "infos": "`Afro-Shop Si., <br> Mainzer Straße 11, 67547 Worms <br> Phone: 01521 4369849`"
     },
+    {
+        "name": "Black and White international Haircosmeticstudio",
+        "city": "Wiesbaden",
+        "zipCode": "65187",
+        "coords": "{lat: 50.0736572, lng: 8.231152}",
+        "infos": "`Black and White international Haircosmeticstudio, <br> Schiersteiner Straße 20, 65187 Wiesbaden <br> Phone:0611 9889686`"
+    },
+    {
+        "name": "Afro Hair Braiding Mainz",
+        "city": "Mainz",
+        "zipCode": "55116",
+        "coords": "{lat: 49.9959172, lng: 8.2674964}",
+        "infos": "`Afro Hair Braiding Mainz, <br> Gaustraße 37, 55116 Mainz <br> Phone: 01521 8126168`"
+    },
+    {
+        "name": "NHYIRA AFRO-SHOP",
+        "city": "Kaiserslautern",
+        "zipCode": "67655",
+        "coords": "{lat: 49.4469285, lng: 7.7792025}",
+        "infos": "`NHYIRA AFRO-SHOP, <br> Mannheimer Straße 25, 67655 Kaiserslautern <br> Phone: 01521 5007734`"
+    },
+    {
+        "name": "PD&T African Shop",
+        "city": "Kaiserslautern",
+        "zipCode": "67655",
+        "coords": "{lat: 49.4384587, lng: 7.7676971}",
+        "infos": "`PD&T African Shop, <br> Richard-Wagner-Straße 77, 67655 Kaiserslautern <br> Phone: 0631 41287178`"
+    },
+    {
+        "name": "Michi & Maxi Hair Cosmetics",
+        "city": "Kaiserslautern",
+        "zipCode": "67655",
+        "coords": "{lat: 49.4412679, lng: 7.7657944}",
+        "infos": "`Michi & Maxi Hair Cosmetics, <br> Richard-Wagner-Straße 44, 67655 Kaiserslautern <br> Phone: 0176 32468623`"
+    },
+    {
+        "name": "Gye Nyame Afro Shop Saarbrücken",
+        "city": "Saarbrücken",
+        "zipCode": "66115",
+        "coords": "{lat: 49.2408195, lng: 6.9796765}",
+        "infos": "`Gye Nyame Afro Shop Saarbrücken, <br> Klausenerstraße 20, 66115 Saarbrücken <br> Phone: 0681 93556245`"
+    },
+    {
+        "name": "Afro Shop Iman",
+        "city": "Saarbrücken",
+        "zipCode": "66117",
+        "coords": "{lat: 49.2312721, lng: 6.9877274}",
+        "infos": "`Afro Shop Iman, <br> Vorstadtstraße 33, 66117 Saarbrücken <br> Phone: 0681 9703917`"
+    },
+    {
+        "name": "Afro Shop Tropicana, Yorongar Danmbaye",
+        "city": "Saarbrücken",
+        "zipCode": "66111",
+        "coords": "{lat: 49.2347365, lng: 6.9928803}",
+        "infos": "`Afro Shop Tropicana, Yorongar Danmbaye, <br> Berliner Promenade 17, 66111 Saarbrücken <br> Phone: 0681 37996148`"
+    },
+    {
+        "name": "Lina's Afroshop",
+        "city": "Saarbrücken",
+        "zipCode": "66111",
+        "coords": "{lat: 49.2379186, lng: 6.998692}",
+        "infos": "`Lina's Afroshop, <br> Richard-Wagner-Straße 58-60, 66111 Saarbrücken <br> Phone: 0681 32549384`"
+    },
+    {
+        "name": "Makola AfroShop",
+        "city": "Saarbrücken",
+        "zipCode": "66113",
+        "coords": "{lat: 49.2438987, lng: 6.970868}",
+        "infos": "`Makola AfroShop, <br> Lebacher Straße 45, 66113 Saarbrücken <br> Phone: 0681 68615381`"
+    },
+    {
+        "name": "nana afro-friseur&beauty salon",
+        "city": "Saarbrücken",
+        "zipCode": "66111",
+        "coords": "{lat: 49.2347365, lng: 6.9928803}",
+        "infos": "`nana afro-friseur&beauty salon, <br> Berliner Promenade 17, 66111 Saarbrücken <br> Phone: 0176 72804073`"
+    },
+    {
+        "name": "Aro Afro Shop",
+        "city": "Trier",
+        "zipCode": "54292",
+        "coords": "{lat: 49.7583272, lng: 6.6500277}",
+        "infos": "`Aro Afro Shop, <br> Roonstraße 8, 54292 Trier <br> Phone: 0651 99473609`"
+    },
+    {
+        "name": "AFRICAN ARTS AND COSMETICS",
+        "city": "Koblenz",
+        "zipCode": "56068",
+        "coords": "{lat: 50.3562221, lng: 7.5944321}",
+        "infos": "`AFRICAN ARTS AND COSMETICS, <br> Stegemannstraße 32-38, 56068 Koblenz <br> Phone: 0261 14113`"
+    },
+    {
+        "name": "Afromania Beauty Shop Koblenz",
+        "city": "Koblenz",
+        "zipCode": "56068",
+        "coords": "{lat: 50.360656, lng: 7.5934823}",
+        "infos": "`Afromania Beauty Shop Koblenz, <br> Altengraben 16, 56068 Koblenz <br> Phone: 0261 13358444`"
+    },
+    {
+        "name": "All Nation Afro Asia Market - Afrikanisch-asiatische Lebensmittel und mehr",
+        "city": "Koblenz",
+        "zipCode": "56070",
+        "coords": "{lat: 50.3724474, lng: 7.5968521}",
+        "infos": "`All Nation Afro Asia Market - <br> Afrikanisch-asiatische Lebensmittel und mehr, <br> Mayer-Alberti-Straße 25, 56070 Koblenz <br> Phone: 0261 87670757`"
+    },
+    {
+        "name": "Asian Afro Shop",
+        "city": "Bonn",
+        "zipCode": "53111",
+        "coords": "{lat: 50.7388588, lng: 7.1008211}",
+        "infos": "`Asian Afro Shop, <br> Kölnstraße 24A, 53111 Bonn <br> Phone: 0228 694343`"
+    },
+    {
+        "name": "AFROSHOP COLOGNE",
+        "city": "Cologne",
+        "zipCode": "66111",
+        "coords": "{lat: 50.9300389, lng: 7.0399973}",
+        "infos": "`AFROSHOP COLOGNE, <br> Frankfurter Straße 702, 51107 Cologne <br> Phone: 0221 16847591`"
+    },
+    {
+        "name": "Ceforafrica - Afroshop",
+        "city": "Cologne",
+        "zipCode": "50674",
+        "coords": "{lat: 50.9282843, lng: 6.9405105}",
+        "infos": "`Ceforafrica - Afroshop, <br> Luxemburger Straße 18, 50674 Cologne <br> Phone: 0221 4249516`"
+    },
+    {
+        "name": "Margret Afro Hairdressing and Afroshop",
+        "city": "Cologne",
+        "zipCode": "51065",
+        "coords": "{lat: 50.9574939, lng: 7.0107213}",
+        "infos": "`Margret Afro Hairdressing and Afroshop, <br> Frankfurter Straße 76, 51065 Cologne <br> Phone: 0221 26137321`"
+    },
+    {
+        "name": "Afro Cosmetic Shop",
+        "city": "Cologne",
+        "zipCode": "50823",
+        "coords": "{lat: 50.9527583, lng: 6.9245755}",
+        "infos": "`Afro Cosmetic Shop, <br> Overbeckstraße 5, 50823 Cologne <br> Phone: 0221 5504444`"
+    },
+    {
+        "name": "Black and White Noble Hair Style",
+        "city": "Cologne",
+        "zipCode": "51107",
+        "coords": "{lat: 50.9300389, lng: 7.0399973}",
+        "infos": "`Black and White Noble Hair Style, <br> Frankfurter Straße 702, 51107 Cologne <br> Phone: 0221 16847591`"
+    },
+    {
+        "name": "Afro-Friseur Salon Kathy Köln",
+        "city": "Cologne",
+        "zipCode": "51065",
+        "coords": "{lat: 50.9577321, lng: 7.0115119}",
+        "infos": "`Afro-Friseur Salon Kathy Köln, <br> Montanusstraße 1, 51065 Cologne <br> Phone: 0221 22205852`"
+    },
+    {
+        "name": "Asian & Afroshop Lebensmittel",
+        "city": "Cologne",
+        "zipCode": "50674",
+        "coords": "{lat: 50.9301026, lng: 6.940793}",
+        "infos": "`Asian & Afroshop Lebensmittel, <br> Hohenstaufenring 15, 50674 Cologne <br> Phone: 0221 8012754`"
+    },
+    {
+        "name": "Afro Shop",
+        "city": "Cologne",
+        "zipCode": "50823",
+        "coords": "{lat: 50.9520437, lng: 6.9203762}",
+        "infos": "`Afro Shop, <br> Hüttenstraße 23, 50823 Cologne <br> Phone: 0221 58982280`"
+    },
+    {
+        "name": "Zadoo Afro Hair Shop",
+        "city": "Cologne",
+        "zipCode": "50667",
+        "coords": "{lat: 50.9387987, lng: 6.9502679}",
+        "infos": "`Zadoo Afro Hair Shop, <br> Breite Straße 83, 50667 Cologne <br> Phone: 015755781711`"
+    },
+    {
+        "name": "Afro-Kosmetik-Megitta Luvivila Domingos",
+        "city": "Cologne",
+        "zipCode": "50823",
+        "coords": "{lat: 50.9524334, lng: 6.9192983}",
+        "infos": "`Afro-Kosmetik-Megitta Luvivila Domingos, <br> Ehrenfeldgürtel 104, 50823 Cologne <br> Phone: 01577 8980287`"
+    },
+    {
+        "name": "GT World Of Beauty GmbH Köln",
+        "city": "Cologne",
+        "zipCode": "50676",
+        "coords": "{lat: 50.9349201, lng: 6.9417228}",
+        "infos": "`GT World Of Beauty GmbH Köln, <br> Schaafenstraße 27-33, 50676 Cologne <br> Phone: 0221 31090380`"
+    },
+    {
+        "name": "Becky's Afro Markt",
+        "city": "Cologne",
+        "zipCode": "50676",
+        "coords": "{lat: 50.9350369, lng: 6.9474418}",
+        "infos": "`Becky's afro Markt, <br> Lungengasse 24, 50676 Cologne <br> Phone: 0221 7162341`"
+    },
+    {
+        "name": "Black and White Noble Hair Style",
+        "city": "Cologne",
+        "zipCode": "51107",
+        "coords": "{lat: 50.9300389, lng: 7.0399973}",
+        "infos": "`Black and White Noble Hair Style, <br> Frankfurter Straße 702, 51107 Cologne <br> Phone: 0221 16847591`"
+    },
+    {
+        "name": "Simna Esso Afroshop",
+        "city": "Cologne",
+        "zipCode": "51103",
+        "coords": "{lat: 50.9398638, lng: 7.0077649}",
+        "infos": "`Simna Esso Afroshop, <br> Steprathstraße 18, 51103 Cologne`"
+    },
+    {
+        "name": "Afro Shop Fouta",
+        "city": "Düsseldorf",
+        "zipCode": "40227",
+        "coords": "{lat: 51.2179271, lng: 6.7965653}",
+        "infos": "`Afro Shop Fouta, <br> Heinz-Schmöle-Straße 8, 40227 Düsseldorf`"
+    },
+    {
+        "name": "Naana's Beauty Salon",
+        "city": "Düsseldorf",
+        "zipCode": "40215",
+        "coords": "{lat: 51.2186844, lng: 6.7801537}",
+        "infos": "`Naana's Beauty Salon, <br> Hüttenstraße 1, 40215 Düsseldorf <br> Phone: 0211 73564200`"
+    },
+    {
+        "name": "Fatou Hair",
+        "city": "Düsseldorf",
+        "zipCode": "40210",
+        "coords": "{lat: 51.2244665, lng: 6.7877103}",
+        "infos": "`Fatou Hair, <br> Oststraße 63, 40210 Düsseldorf <br> Phone: 0211 6029918`"
+    },
+    {
+        "name": "Hairshop American",
+        "city": "Düsseldorf",
+        "zipCode": "40211",
+        "coords": "{lat: 51.2265776, lng: 6.7940366}",
+        "infos": "`Hairshop American, <br> Schützenstraße 71, 40211 Düsseldorf`"
+    },
+    {
+        "name": "Ghana House",
+        "city": "Düsseldorf",
+        "zipCode": "40211",
+        "coords": "{lat: 51.2258821, lng: 6.7940086}",
+        "infos": "`Ghana House, <br> Kölner Straße 43A, 40211 Düsseldorf <br> Phone: 0174 7466005`"
+    },
+    {
+        "name": "CAROLINE HAIR & BEAUTY / AFROSHOP",
+        "city": "Düsseldorf",
+        "zipCode": "40227",
+        "coords": "{lat: 51.2130628, lng: 6.8060571}",
+        "infos": "`CAROLINE HAIR & BEAUTY / AFROSHOP, <br> Ellerstraße 221, 40227 Düsseldorf <br> Phone: 01525 6265347`"
+    },
+    {
+        "name": "D-TOWN SALON",
+        "city": "Düsseldorf",
+        "zipCode": "40211",
+        "coords": "{lat: 51.2253453, lng: 6.7951811}",
+        "infos": "`D-TOWN SALON, <br> Kölner Straße 50, 40211 Düsseldorf`"
+    },
+    {
+        "name": "Friseur La Beauté - Inh. Aimee Bimai",
+        "city": "Düsseldorf",
+        "zipCode": "40211",
+        "coords": "{lat: 51.2259281, lng: 6.796124}",
+        "infos": "`Friseur La Beauté - Inh. Aimee Bimai, <br> Worringer Straße 67, 40211 Düsseldorf <br> Phone: 0211 93653370`"
+    },
+    {
+        "name": "Afro Shop Shere Punjab",
+        "city": "Düsseldorf",
+        "zipCode": "40211",
+        "coords": "{lat: 51.225399, lng: 6.7943852}",
+        "infos": "`Afro Shop Shere Punjab, <br> Karl-Anton-Straße 35, 40211 Düsseldorf <br> Phone: 0172 2728232`"
+    },
+    {
+        "name": "Shirleys Hair",
+        "city": "Düsseldorf",
+        "zipCode": "40215",
+        "coords": "{lat: 51.2110154, lng: 6.7818544}",
+        "infos": "`Shirleys Hair, <br> Bilker Allee 222, 40215 Düsseldorf <br> Phone: 0211 24459336`"
+    },
+    {
+        "name": "Market Circle",
+        "city": "Düsseldorf",
+        "zipCode": "40215",
+        "coords": "{lat: 51.2120019, lng: 6.7824255}",
+        "infos": "`Market Circle, <br> Corneliusstraße 91, 40215 Düsseldorf <br> Phone: 0211 9336748`"
+    },
+    {
+        "name": "Majolie Afroshop",
+        "city": "Mönchengladbach",
+        "zipCode": "41061",
+        "coords": "{lat: 51.1973609, lng: 6.4425499}",
+        "infos": "`Majolie Afroshop, <br> Sittardstraße 21, 41061 Mönchengladbach <br> Phone: 0163 7888800`"
+    },
+    {
+        "name": "Cheick Maria Afro Shop Cosmetic",
+        "city": "Mönchengladbach",
+        "zipCode": "41061",
+        "coords": "{lat: 51.1933436, lng: 6.4420898}",
+        "infos": "`Cheick Maria Afro Shop Cosmetic, <br> Lüpertzender Straße 149, 41061 Mönchengladbach <br> Phone: 01575 64888870`"
+    },
+    {
+        "name": "Ceeq Cash And Carry",
+        "city": "Mönchengladbach",
+        "zipCode": "41061",
+        "coords": "{lat: 51.1978654, lng: 6.4442835}",
+        "infos": "`Ceeq Cash And Carry, <br> Hindenburgstraße 201, 41061 Mönchengladbach <br> Phone: 01515 5685555`"
+    },
+    {
+        "name": "Beauty Afroshop",
+        "city": "Duisburg",
+        "zipCode": "47051",
+        "coords": "{lat: 51.431646, lng: 6.7596327}",
+        "infos": "`Beauty Afroshop, <br> Sonnenwall 62, 47051 Duisburg <br> Phone: 0176 72206808`"
+    },
+    {
+        "name": "Justice International Afroshop",
+        "city": "Duisburg",
+        "zipCode": "47053",
+        "coords": "{lat: 51.4234703, lng: 6.7549113}",
+        "infos": "`Justice International Afroshop, <br> Heerstraße 119, 47053 Duisburg <br> Phone: 0203 7398092`"
+    },
+    {
+        "name": "Afrobeauty",
+        "city": "Duisburg",
+        "zipCode": "41061",
+        "coords": "{lat: 51.4237884, lng: 6.7549377}",
+        "infos": "`Afrobeauty, <br> Heerstraße 111, 47053 Duisburg <br> Phone: 0203 6080236`"
+    },
+    {
+        "name": "Pretty Hair Shop",
+        "city": "Duisburg",
+        "zipCode": "47166",
+        "coords": "{lat: 51.4895623, lng: 6.7754329}",
+        "infos": "`Pretty Hair Shop, <br> Alleestraße 52, 47166 Duisburg <br> Phone: 0203 9905327`"
+    },
+    {
+        "name": "Cori's Afro Look",
+        "city": "Duisburg",
+        "zipCode": "47057",
+        "coords": "{lat: 51.4285737, lng: 6.7785035}",
+        "infos": "`Cori's Afro Look, <br> Neudorfer Straße 67, 47057 Duisburg`"
+    },
+    {
+        "name": "Mass Beauty",
+        "city": "Duisburg",
+        "zipCode": "47137",
+        "coords": "{lat: 51.4660012, lng: 6.7724759}",
+        "infos": "`Mass Beauty, <br> Biesenstraße 2, 47137 Duisburg <br> Phone: 0163 1567982`"
+    },
+    {
+        "name": "G&T Afro Beauty",
+        "city": "Duisburg",
+        "zipCode": "47057",
+        "coords": "{lat: 51.4239883, lng: 6.7819487}",
+        "infos": "`G&T Afro Beauty, <br> Neudorfer Straße 181, 47057 Duisburg`"
+    },
+    {
+        "name": "Top Style Afro Salon",
+        "city": "Oberhausen",
+        "zipCode": "46045",
+        "coords": "{lat: 51.4668848, lng: 6.8585549}",
+        "infos": "`Top Style Afro Salon, <br> Hermann-Albertz-Straße 174, 46045 Oberhausen <br> Phone: 01521 0170392`"
+    },
+    {
+        "name": "Ebony-Afro-Shop",
+        "city": "Oberhausen",
+        "zipCode": "46045",
+        "coords": "{lat: 51.4710159, lng: 6.858026}",
+        "infos": "`Ebony-Afro-Shop, <br> Nohlstraße 16, 46045 Oberhausen <br> Phone: 0208 22931`"
+    },
+    {
+        "name": "Corine Afrolook",
+        "city": "Duisburg",
+        "zipCode": "47057",
+        "coords": "{lat: 51.4285737, lng: 6.7785035}",
+        "infos": "`Corine Afrolook, <br> Neudorfer Straße 67, 47057 Duisburg <br> Phone: 01521 7141431`"
+    },
+    {
+        "name": "Black & White",
+        "city": "Oberhausen",
+        "zipCode": "46045",
+        "coords": "{lat: 51.4699844, lng: 6.8491414}",
+        "infos": "`Black & White, <br> Friedrich-Karl-Straße 52, 46045 Oberhausen <br> Phone: 0208 855590`"
+    },
+    {
+        "name": "Tripple T Afro Shop",
+        "city": "Duisburg",
+        "zipCode": "47051",
+        "coords": "{lat: 51.4327009, lng: 6.7586323}",
+        "infos": "`Tripple T Afro Shop, <br> Beekstraße 54, 47051 Duisburg <br> Phone: 0174 2592504`"
+    },
+    {
+        "name": "Afro Beauty Shop Haarverlängerung",
+        "city": "Esse",
+        "zipCode": "45127",
+        "coords": "{lat: 51.4527065, lng: 7.0144978}",
+        "infos": "`Afro Beauty Shop Haarverlängerung, <br> Am Handelshof 1, 45127 Essen <br> Phone: 0201 239182`"
+    },
+    {
+        "name": "Bigi - Mama Afroshop",
+        "city": "Duisburg",
+        "zipCode": "47051",
+        "coords": "{lat: 51.431079, lng: 6.767715}",
+        "infos": "`Bigi - Mama Afroshop, <br> Friedrich-Wilhelm-Straße 61, 47051 Duisburg`"
+    },
+    {
+        "name": "Afro-Europashop New World",
+        "city": "Wuppertal",
+        "zipCode": "42105",
+        "coords": "{lat: 51.2606742, lng: 7.1432768}",
+        "infos": "`Afro-Europashop New World, <br> Hochstraße 88, 42105 Wuppertal <br> Phone: 0202 39320257`"
+    },
+    {
+        "name": "Ginas Hair & Beauty",
+        "city": "Wuppertal",
+        "zipCode": "42103",
+        "coords": "{lat: 51.2583499, lng: 7.1438996}",
+        "infos": "`Ginas Hair & Beauty, <br> Grünstraße 6, 42103 Wuppertal <br> Phone: 0202 8704789`"
+    },
+    {
+        "name": "Grace Afro-Hairdressing Salon",
+        "city": "Wuppertal",
+        "zipCode": "42119",
+        "coords": "{lat: 51.2435295, lng: 7.1435106}",
+        "infos": "`Grace Afro-Hairdressing Salon, <br> Cronenberger Straße 54, 42119 Wuppertal <br> Phone: 01521 8673227`"
+    },
+    {
+        "name": "Viva Asia African Supermarket",
+        "city": "Wuppertal",
+        "zipCode": "42107",
+        "coords": "{lat: 51.2632616, lng: 7.1479519}",
+        "infos": "`Viva Asia African Supermarket, <br> Gathe 35, 42107 Wuppertal <br> Phone: 0202 7595152`"
+    },
+    {
+        "name": "Grace Beauty and Food Store",
+        "city": "Wuppertal",
+        "zipCode": "42275",
+        "coords": "{lat: 51.2730442, lng: 7.2051263}",
+        "infos": "`Grace Beauty and Food Store, <br> Kleiner Werth 10, 42275 Wuppertal <br> Phone: 0202 51495736`"
+    },
+    {
+        "name": "Dora Hairstyle Afro",
+        "city": "Wuppertal",
+        "zipCode": "42283",
+        "coords": "{lat: 51.2667257, lng: 7.1899681}",
+        "infos": "`Dora Hairstyle Afro, <br> Friedrich-Engels-Allee, 42283 Wuppertal <br> Phone: 0202 7259021`"
+    },
+    {
+        "name": "African Market-Wuppertal Afro-Caribbean Food",
+        "city": "Wuppertal",
+        "zipCode": "42119",
+        "coords": "{lat: 51.2509661, lng: 7.1481054}",
+        "infos": "`African Market-Wuppertal Afro-Caribbean Food, <br> Weststraße 64, 42119 Wuppertal`"
+    },
+    {
+        "name": "Barry Afro & Asia Market",
+        "city": "Wuppertal",
+        "zipCode": "42275",
+        "coords": "{lat: 51.2698825, lng: 7.1992251}",
+        "infos": "`Barry Afro & Asia Market, <br> Höhne 16, 42275 Wuppertal <br> Phone: 0202 75882770`"
+    },
+    {
+        "name": "Modern African Salon",
+        "city": "Essen",
+        "zipCode": "45127",
+        "coords": "{lat: 51.4563836, lng: 7.0076871}",
+        "infos": "`Modern African Salon, <br> Lindenallee 76, 45127 Essen <br> Phone: 0201 2438155`"
+    },
+    {
+        "name": "Pink Afro-Beauty-Palace - Haarverlängerung",
+        "city": "Essen",
+        "zipCode": "45127",
+        "coords": "{lat: 51.4516593, lng: 7.0118328}",
+        "infos": "`Pink Afro-Beauty-Palace - Haarverlängerung, <br> Hachestraße 19, 45127 Essen <br> Phone: 0201 28816225`"
+    },
+    {
+        "name": "Coco Afro Salon Haarverlängerung und Nägelstudio",
+        "city": "Essen",
+        "zipCode": "45127",
+        "coords": "{lat: 51.4582438, lng: 7.0132513}",
+        "infos": "`Coco Afro Salon Haarverlängerung und Nägelstudio, <br> Viehofer Straße 8, 45127 Essen <br> Phone: 01521 9407913`"
+    },
+    {
+        "name": "Afro Beauty Aicha Hair",
+        "city": "Essen",
+        "zipCode": "45127",
+        "coords": "{lat: 51.4600591, lng: 6.9800314}",
+        "infos": "`Afro Beauty Aicha Hair, <br> Oberdorfstraße 5, 45143 Essen <br> Phone: 01575 0144868`"
+    },
+    {
+        "name": "Afro Hair Palace by NK Choice",
+        "city": "Essen",
+        "zipCode": "45127",
+        "coords": "{lat: 51.4590882, lng: 7.011721}",
+        "infos": "`Afro Hair Palace by NK Choice, <br> Kreuzeskirchstraße 11, 45127 Essen <br> Phone: 01521 0583317`"
+    },
+    {
+        "name": "Afro-Center 786",
+        "city": "Essen",
+        "zipCode": "45127",
+        "coords": "{lat: 51.4626244, lng: 7.0155583}",
+        "infos": "`Afro-Center 786, <br> Schützenbahn 51, 45127 Essen <br> Phone: 0201 221273`"
+    },
+    {
+        "name": "LadyGold's Afro & American Shop e.K.",
+        "city": "Essen",
+        "zipCode": "45138",
+        "coords": "{lat: 51.4514314, lng: 7.0315641}",
+        "infos": "`LadyGold's Afro & American Shop e.K., <br> Markgrafenstraße 12, 45138 Essen <br> Phone: 01521 0118381`"
+    },
+    {
+        "name": "Keyla Fashion Afro Latino Salon",
+        "city": "Essen",
+        "zipCode": "45127",
+        "coords": "{lat: 51.4594728, lng: 7.0154471}",
+        "infos": "`Keyla Fashion Afro Latino Salon, <br> Ribbeckstraße 48, 45127 Essen <br> Phone: 0162 2653701`"
+    },
+    {
+        "name": "Queens Afro American",
+        "city": "Essen",
+        "zipCode": "45138",
+        "coords": "{lat: 51.4514314, lng: 7.0315641}",
+        "infos": "`Queens Afro American, <br> Markgrafenstraße 12, 45138 Essen`"
+    },
+
+
+
+
 ]
