@@ -1196,8 +1196,683 @@
         "coords": "{lat: 51.4514314, lng: 7.0315641}",
         "infos": "`Queens Afro American, <br> Markgrafenstraße 12, 45138 Essen`"
     },
-
-
-
-
+    {
+        "name": "Mama Africa Afro Shop",
+        "city": "Essen",
+        "zipCode": "45143",
+        "coords": "{lat: 51.4614329, lng: 6.9745679}",
+        "infos": "`Mama Africa Afro Shop, <br> Altendorfer Straße 345, 45143 Essen`"
+    },
+    {
+        "name": "Afro Shop Mama De Mama",
+        "city": "Gelsenkirchen",
+        "zipCode": "45888",
+        "coords": "{lat: 51.5072231, lng: 7.1041743}",
+        "infos": "`Afro Shop Mama De Mama, <br> Ringstraße 16, 45888 Gelsenkirchen`"
+    },
+    {
+        "name": "JOYCEE AFRO HAIR/100% HUMAN/WHOLESALE PRICE",
+        "city": "Gelsenkirchen",
+        "zipCode": "45879",
+        "coords": "{lat: 51.510382, lng: 7.1008191}",
+        "infos": "`JOYCEE AFRO HAIR/100% HUMAN/WHOLESALE PRICE, <br> Ringstraße 71, 45879 Gelsenkirchen <br> Phone: 0176 73235780`"
+    },
+    {
+        "name": "Moustapha Diop/Afro Atlantik Shop Afrikanisches Labensmittel Geschäft",
+        "city": "Essen",
+        "zipCode": "45138",
+        "coords": "{lat: 51.4523723, lng: 7.0280635}",
+        "infos": "`Moustapha Diop/Afro Atlantik Shop Afrikanisches Labensmittel Geschäft, <br> Steeler Straße 125, 45138 Essen <br> Phone: 0201 4792595`"
+    },
+    {
+        "name": "Jevitas Kosmetik Afro Shop",
+        "city": "Dortmund",
+        "zipCode": "44135",
+        "coords": "{lat: 51.5170759, lng: 7.4670245}",
+        "infos": "`Jevitas Kosmetik Afro Shop, <br> Ludwigstraße 14, 44135 Dortmund <br> Phone: 0231 22901623`"
+    },
+    {
+        "name": "Afro World Dortmund",
+        "city": "Dortmund",
+        "zipCode": "44145",
+        "coords": "{lat: 51.5241516, lng: 7.4800853}",
+        "infos": "`Afro World Dortmund, <br> Borsigstraße 62, 44145 Dortmund <br> Phone: 0231 4759235`"
+    },
+    {
+        "name": "Osy Afro Salon - Citi.",
+        "city": "Dortmund",
+        "zipCode": "44135",
+        "coords": "{lat: 51.5155113, lng: 7.4658482}",
+        "infos": "`Osy Afro Salon - Citi., <br> Brückstraße 20-26, 44135 Dortmund <br> Phone: 0231 33018821`"
+    },
+    {
+        "name": "Afro-Hair-Center-Salon",
+        "city": "Dortmund",
+        "zipCode": "44135",
+        "coords": "{lat: 51.5179678, lng: 7.4690461}",
+        "infos": "`Afro-Hair-Center-Salon, <br> Bornstraße 12, 44135 Dortmund <br> Phone: 0231 9565136`"
+    },
+    {
+        "name": "Massai Afroshop",
+        "city": "Dortmund",
+        "zipCode": "44137",
+        "coords": "{lat: 51.5137675, lng: 7.4479627}",
+        "infos": "`Massai Afroshop, <br> Unionstraße 5, 44137 Dortmund <br> Phone: 0231 53030121`"
+    },
+    {
+        "name": "Afro Shop Makumbasi",
+        "city": "Dortmund",
+        "zipCode": "44135",
+        "coords": "{lat: 51.5172037, lng: 7.4641618}",
+        "infos": "`Afro Shop Makumbasi, <br> Gnadenort, 44135 Dortmund`"
+    },
+    {
+        "name": "Afroshop Next Door Münster",
+        "city": "Münster",
+        "zipCode": "48143",
+        "coords": "{lat: 51.9550838, lng: 7.6319286}",
+        "infos": "`Afroshop Next Door Münster, <br> Von-Steuben-Straße 10, 48143 Münster <br> Phone: 0251 85714537`"
+    },
+    {
+        "name": "TTS World Supermarket Asian & Afro Shop",
+        "city": "Dortmund",
+        "zipCode": "44135",
+        "coords": "{lat: 51.9583312, lng: 7.6389534}",
+        "infos": "`TTS World Supermarket Asian & Afro Shop, <br> Wolbecker Straße 29, 48155 Münster <br> Phone: 0251 1365194`"
+    },
+    {
+        "name": "Next Door ...afro-shop",
+        "city": "Rheine",
+        "zipCode": "48429",
+        "coords": "{lat: 52.2800433, lng: 7.4444234}",
+        "infos": "`Next Door ...afro-shop, <br> Emsstraße 78, 48429 Rheine <br> Phone: 05971 8083965`"
+    },
+    {
+        "name": "AKWA-BELL-AFRO-SHOP-SALON",
+        "city": "Bielefeld",
+        "zipCode": "33602",
+        "coords": "{lat: 52.0225204, lng: 8.5398413}",
+        "infos": "`AKWA-BELL-AFRO-SHOP-SALON, <br> August-Bebel-Straße 101, 33602 Bielefeld <br> Phone: 0521 7709438`"
+    },
+    {
+        "name": "Escape Afro Salon & Shop",
+        "city": "Bielefeld",
+        "zipCode": "33607",
+        "coords": "{lat: 52.0227347, lng: 8.5408805}",
+        "infos": "`Escape Afro Salon & Shop, <br> Heeper Straße 32a, 33607 Bielefeld <br> Phone: 0521 9146254`"
+    },
+    {
+        "name": "Escape",
+        "city": "Bielefeld",
+        "zipCode": "33613",
+        "coords": "{lat: 52.0270306, lng: 8.530996}",
+        "infos": "`Escape, <br> Jöllenbecker Straße 3, 33613 Bielefeld <br> Phone: 0521 9146254`"
+    },
+    {
+        "name": "AfroShop- Winta's Hair Dream",
+        "city": "Bielefeld",
+        "zipCode": "33602",
+        "coords": "{lat: 52.0231131, lng: 8.5329064}",
+        "infos": "`AfroShop- Winta's Hair Dream, <br> Jahnplatz 11, 33602 Bielefeld <br> Phone: 0160 4581064`"
+    },
+    {
+        "name": "Lydies Afro Shop",
+        "city": "Paderborn",
+        "zipCode": "33098",
+        "coords": "{lat: 51.7201023, lng: 8.7604811}",
+        "infos": "`Lydies Afro Shop, <br> Giersstraße 22, 33098 Paderborn`"
+    },
+    {
+        "name": "Gyenyame Afro-Shop",
+        "city": "Paderborn",
+        "zipCode": "33102",
+        "coords": "{lat: 51.7220931, lng: 8.7432571}",
+        "infos": "`Gyenyame Afro-Shop, <br> Neuhäuser Straße 43, 33102 Paderborn <br> Phone: 05251 296963`"
+    },
+    {
+        "name": "Afroshop Paderborn",
+        "city": "Paderborn",
+        "zipCode": "33102",
+        "coords": "{lat: 51.7167636, lng: 8.7437106}",
+        "infos": "`Afroshop Paderborn, <br> Ferdinandstraße 10, 33102 Paderborn`"
+    },
+    {
+        "name": "Afro Shop Black & White Beauty",
+        "city": "Kassel",
+        "zipCode": "34117",
+        "coords": "{lat: 51.3153431, lng: 9.5050036}",
+        "infos": "`Afro Shop Black & White Beauty, <br> Brüderstraße 8, 34117 Kassel <br> Phone: 0561 282097`"
+    },
+    {
+        "name": "Mina's Afro Hair & More",
+        "city": "Kassel",
+        "zipCode": "34117",
+        "coords": "{lat: 51.3166964, lng: 9.5033604}",
+        "infos": "`Mina's Afro Hair & More, <br> Kurt-Schumacher-Straße 30, 34117 Kassel <br> Phone: 0170 4341932`"
+    },
+    {
+        "name": "Ladies Pride African Carribbean Beauty Shop",
+        "city": "Kassel",
+        "zipCode": "34117",
+        "coords": "{lat: 51.3198116, lng: 9.4931236}",
+        "infos": "`Ladies Pride African Carribbean Beauty Shop, <br> Grüner Weg 19, 34117 Kassel <br> Phone: 0561 7668444`"
+    },
+    {
+        "name": "Asamai Markt",
+        "city": "Kassel",
+        "zipCode": "34117",
+        "coords": "{lat: 51.3185497, lng: 9.499249}",
+        "infos": "`Asamai Markt, <br> Kurt-Schumacher-Straße 5, 34117 Kassel <br> Phone: 0561 76677240`"
+    },
+    {
+        "name": "Jireh Afroshop und Kiosk",
+        "city": "Kassel",
+        "zipCode": "34125",
+        "coords": "{lat: 51.3375291, lng: 9.5205127}",
+        "infos": "`Jireh Afroshop und Kiosk, <br> Am Felsenkeller 4, 34125 Kassel <br> Phone: 0176 83454263`"
+    },
+    {
+        "name": "Afro-Shop",
+        "city": "Hannover",
+        "zipCode": "30165",
+        "coords": "{lat: 52.3939119, lng: 9.7349864}",
+        "infos": "`Afro-Shop, <br> Vahrenwalder Straße 93, 30165 Hannover`"
+    },
+    {
+        "name": "Asia Afro Tamil Angadi Shop",
+        "city": "Hannover",
+        "zipCode": "30165",
+        "coords": "{lat: 52.4023249, lng: 9.7351998}",
+        "infos": "`Asia Afro Tamil Angadi Shop, <br> Vahrenwalder Straße 175, 30165 Hannover <br> Phone: 0511 3574280`"
+    },
+    {
+        "name": "Chez Maman Afro Shop",
+        "city": "Hannover",
+        "zipCode": "30449",
+        "coords": "{lat: 52.3606395, lng: 9.7211347}",
+        "infos": "`Chez Maman Afro Shop, <br> Ritter-Brüning-Straße 28, 30449 Hannover <br> Phone: 0511 5903464`"
+    },
+    {
+        "name": "Nana AFRO Accessories",
+        "city": "Hannover",
+        "zipCode": "30165",
+        "coords": "{lat: 52.3889211, lng: 9.7347273}",
+        "infos": "`Nana AFRO Accessories, <br> Vahrenwalder Straße 38, 30165 Hannover`"
+    },
+    {
+        "name": "Black-America Hair Saloon",
+        "city": "Hannover",
+        "zipCode": "30165",
+        "coords": "{lat: 52.3902623, lng: 9.7343436}",
+        "infos": "`Black-America Hair Saloon, <br> Vahrenwalder Straße 55, 30165 Hannover <br> Phone: 0511 30020244`"
+    },
+    {
+        "name": "Asia Afro Shop lony Hannover",
+        "city": "Hannover",
+        "zipCode": "30161",
+        "coords": "{lat: 52.3844755, lng: 9.7341309}",
+        "infos": "`Asia Afro Shop lony Hannover, <br> Vahrenwalder Straße 44, 30161 Hannover <br> Phone: 0163 7965376`"
+    },
+    {
+        "name": "Bella's Afro Beauty",
+        "city": "Hannover",
+        "zipCode": "30159",
+        "coords": "{lat: 52.3794087, lng: 9.7283275}",
+        "infos": "`Bella's Afro Beauty, <br> Am Klagesmarkt 25, 30159 Hannover <br> Phone: 0511 4736602`"
+    },
+    {
+        "name": "Star Afro Center",
+        "city": "Hannover",
+        "zipCode": "30179",
+        "coords": "{lat: 52.4118352, lng: 9.7500427}",
+        "infos": "`Star Afro Center, <br> Vahrenheider Markt 17, 30179 Hannover <br> Phone: 0511 56967596`"
+    },
+    {
+        "name": "Akos Afro Shop",
+        "city": "Hannover",
+        "zipCode": "30519",
+        "coords": "{lat: 52.3279334, lng: 9.7783237}",
+        "infos": "`Akos Afro Shop, <br> Hildesheimer Straße 381, 30519 Hannover <br> Phone: 01521 3022937`"
+    },
+    {
+        "name": "AF Magic Hair",
+        "city": "Hannover",
+        "zipCode": "30451",
+        "coords": "{lat: 52.3746747, lng: 9.705413}",
+        "infos": "`AF Magic Hair, <br> Offensteinstraße 5, 30451 Hannover <br> Phone: 0511 1612011`"
+    },
+    {
+        "name": "Makosa Afroshop",
+        "city": "Bremen",
+        "zipCode": "28195",
+        "coords": "{lat: 53.0831092, lng: 8.8058543}",
+        "infos": "`Makosa Afroshop, <br> Falkenstraße 16, 28195 Bremen <br> Phone: 0421 1692185`"
+    },
+    {
+        "name": "Black Beauty",
+        "city": "Bremen",
+        "zipCode": "28219",
+        "coords": "{lat: 53.1021196, lng: 8.7846624}",
+        "infos": "`Black Beauty, <br> Waller Ring 133, 28219 Bremen <br> Phone: 0421 4787938`"
+    },
+    {
+        "name": "Faaye's Afro Shop",
+        "city": "Bremen",
+        "zipCode": "28237",
+        "coords": "{lat: 53.1128737, lng: 8.7644785}",
+        "infos": "`Faaye's Afro Shopp, <br> Gröpelinger Heerstraße 112, 28237 Bremen <br> Phone: 0421 69522394`"
+    },
+    {
+        "name": "KUMBA AFRO HAIRSTYLE",
+        "city": "Bremen",
+        "zipCode": "28199",
+        "coords": "{lat: 53.0618, lng: 8.79}",
+        "infos": "`KUMBA AFRO HAIRSTYLE, <br> Langenmarckstraße 171, 28199 Bremen <br> Phone: 0421 17212476`"
+    },
+    {
+        "name": "Pretty Lady Afro Shop",
+        "city": "Bremen",
+        "zipCode": "28195",
+        "coords": "{lat: 53.0795989, lng: 8.8174203}",
+        "infos": "`Pretty Lady Afro Shop, <br> Rembertistraße 67, 28195 Bremen <br> Phone: 01516 3527745`"
+    },
+    {
+        "name": "Afi Coiffure",
+        "city": "Bremen",
+        "zipCode": "28199",
+        "coords": "{lat: 53.0706216, lng: 8.7889729}",
+        "infos": "`Afi Coiffure, <br> Langemarckstraße 154, 28199 Bremen <br> Phone: 0421 5244916`"
+    },
+    {
+        "name": "Afro Shop & Kiosk Serrra Kunda",
+        "city": "Bremen",
+        "zipCode": "28207",
+        "coords": "{lat: 53.065049, lng: 8.8790391}",
+        "infos": "`Afro Shop & Kiosk Serrra Kunda, <br> Hastedter Heerstraße 385, 28207 Bremen <br> Phone: 01521 5354435`"
+    },
+    {
+        "name": "AfricShopping ",
+        "city": "Bremen",
+        "zipCode": "28199",
+        "coords": "{lat: 53.0735807, lng: 8.8022148}",
+        "infos": "`AfricShopping , <br> Teerhof 59, 28199 Bremen <br> Phone: 0421 59759884`"
+    },
+    {
+        "name": "Original Black Hair Stylist",
+        "city": "Bremen",
+        "zipCode": "28203",
+        "coords": "{lat: 53.0712706, lng: 8.8317239}",
+        "infos": "`Original Black Hair Stylist, <br> Vor dem Steintor 176, 28203 Bremen <br> Phone: 0421 7941811`"
+    },
+    {
+        "name": "Asia Afro Markt",
+        "city": "Bremen",
+        "zipCode": "28199",
+        "coords": "{lat: 53.0737993, lng: 8.7955265}",
+        "infos": "`Asia Afro Markt, <br> Westerstraße 60, 28199 Bremen`"
+    },
+    {
+        "name": "Lou Afro Shop",
+        "city": "Bremen",
+        "zipCode": "28219",
+        "coords": "{lat: 53.1016649, lng: 8.7852837}",
+        "infos": "`Lou Afro Shop, <br> Waller Heerstraße 130, 28219 Bremen`"
+    },
+    {
+        "name": "Nancy's Afro - Beauty Wolfsburg",
+        "city": "Wolfsburg",
+        "zipCode": "38440",
+        "coords": "{lat: 52.4106429, lng: 10.7507737}",
+        "infos": "`Nancy's Afro - Beauty Wolfsburg, <br> Mecklenburger Straße 13, 38440 Wolfsburg <br> Phone: 0174 5306457`"
+    },
+    {
+        "name": "Asia Afroshop",
+        "city": "Magdeburg",
+        "zipCode": "39104",
+        "coords": "{lat: 52.1218658, lng: 11.6301065}",
+        "infos": "`Asia Afroshop, <br> Keplerstraße 11a, 39104 Magdeburg <br> Phone: 0391 5632956`"
+    },
+    {
+        "name": "Afro Shop",
+        "city": "Magdeburg",
+        "zipCode": "39104",
+        "coords": "{lat: 52.1319845, lng: 11.6317914}",
+        "infos": "`Afro Shop, <br> Schweriner Straße 8, 39104 Magdeburg <br> Phone: 0171 7112491`"
+    },
+    {
+        "name": "Ez- Shop African Shop",
+        "city": "Halle (Saale)",
+        "zipCode": "06110",
+        "coords": "{lat: 51.4735364, lng: 11.96857}",
+        "infos": "`Ez- Shop African Shop, <br> Wörmlitzer Straße 118, 06110 Halle (Saale) <br> Phone: 01521 0253385`"
+    },
+    {
+        "name": "EuropAsia market - food",
+        "city": "Halle (Saale)",
+        "zipCode": "06110",
+        "coords": "{lat: 51.4737109, lng: 11.9688803}",
+        "infos": "`EuropAsia market - food, <br> Torstraße 1, 06110 Halle (Saale) <br> Phone: 0176 57882542`"
+    },
+    {
+        "name": "Afro Belle Tresse",
+        "city": "Leipzig",
+        "zipCode": "04103",
+        "coords": "{lat: 51.3374075, lng: 12.3858387}",
+        "infos": "`Afro Belle Tresse, <br> Johannisplatz 19, 04103 Leipzig <br> Phone: 0341 2246753`"
+    },
+    {
+        "name": "Afro-American-Beauty Center",
+        "city": "Leipzig",
+        "zipCode": "04105",
+        "coords": "{lat: 51.3467282, lng: 12.3782495}",
+        "infos": "`Afro-American-Beauty Center, <br> Kurt-Schumacher-Straße 19, 04105 Leipzig <br> Phone: 0341 2689910`"
+    },
+    {
+        "name": "Afro-Hair-Cosmetic-Shop Dresden",
+        "city": "Dresden",
+        "zipCode": "01277",
+        "coords": "{lat: 51.0405246, lng: 13.8033497}",
+        "infos": "`Afro-Hair-Cosmetic-Shop Dresden, <br> Schandauer Straße 55, 01277 Dresden <br> Phone: 01522 4112944`"
+    },
+    {
+        "name": "African Goods",
+        "city": "Dresden",
+        "zipCode": "01099",
+        "coords": "{lat: 51.0672227, lng: 13.7503281}",
+        "infos": "`African Goods, <br> Louisenstraße 22, 01099 Dresden <br> Phone: 01515 6115581`"
+    },
+    {
+        "name": "Deez Wiggy Afro-Kosmetik",
+        "city": "Dresden",
+        "zipCode": "01099",
+        "coords": "{lat: 51.0650269, lng: 13.7524819}",
+        "infos": "`Deez Wiggy Afro-Kosmetik, <br> Böhmische Straße 16, 01099 Dresden <br> Phone: 0174 3296699`"
+    },
+    {
+        "name": "Afroshop Zwickau",
+        "city": "Zwickau",
+        "zipCode": "08056",
+        "coords": "{lat: 50.7222342, lng: 12.4935791}",
+        "infos": "`Afroshop Zwickau, <br> Römerstraße 14, 08056 Zwickau <br> Phone: 0172 4927501`"
+    },
+    {
+        "name": "AfroShop Chemnitz Kiese Ngango Ngango",
+        "city": "Chemnitz",
+        "zipCode": "09130",
+        "coords": "{lat: 50.8386008, lng: 12.9351106}",
+        "infos": "`AfroShop Chemnitz Kiese Ngango Ngango, <br> Gießerstraße 17, 09130 Chemnitz <br> Phone: 0371 2673916`"
+    },
+    {
+        "name": "Afro Beauty Shop Chemnitz",
+        "city": "Chemnitz",
+        "zipCode": "09126",
+        "coords": "{lat: 50.8261053, lng: 12.9410693}",
+        "infos": "`Afro Beauty Shop Chemnitz, <br> Clausstraße 54, 09126 Chemnitz <br> Phone: 01590 6478114`"
+    },
+    {
+        "name": "Iyere Emmanuel Afro Foods",
+        "city": "Cottbus",
+        "zipCode": "03046",
+        "coords": "{lat: 51.7586351, lng: 14.3137295}",
+        "infos": "`Iyere Emmanuel Afro Foods, <br> Briesener Straße 2, 03046 Cottbus <br> Phone: 01521 2935868`"
+    },
+    {
+        "name": "Divine Increase Afro Shop & Cosmetics",
+        "city": "Potsdam",
+        "zipCode": "14473",
+        "coords": "{lat: 52.3878548, lng: 13.0685145}",
+        "infos": "`Divine Increase Afro Shop & Cosmetics, <br> Heinrich-Mann-Allee 16, 14473 Potsdam <br> Phone: 01521 8486411`"
+    },
+    {
+        "name": "Afro-Shop",
+        "city": "Berlin",
+        "zipCode": "12053",
+        "coords": "{lat: 52.4801395, lng: 13.4329839}",
+        "infos": "`Afro-Shop, <br> Neckarstraße 6, 12053 Berlin <br> Phone: 030 6861378`"
+    },
+    {
+        "name": "Afro Shop AFRIKA VITRINE",
+        "city": "Berlin",
+        "zipCode": "10783",
+        "coords": "{lat: 52.4964041, lng: 13.3611505}",
+        "infos": "`Afro Shop AFRIKA VITRINE, <br> Potsdamer Straße 156, 10783 Berlin <br> Phone: 030 5306582`"
+    },
+    {
+        "name": "Max Afro Shop",
+        "city": "Berlin",
+        "zipCode": "12043",
+        "coords": "{lat: 52.4847743, lng: 13.4282728}",
+        "infos": "`Max Afro Shop, <br> Karl-Marx-Straße 25, 12043 Berlin <br> Phone: 030 53606308`"
+    },
+    {
+        "name": "M-Chantal Afro Hairdresser Berlin",
+        "city": "Berlin",
+        "zipCode": "12051",
+        "coords": "{lat: 52.4701233, lng: 13.4291269}",
+        "infos": "`M-Chantal Afro Hairdresser Berlin, <br> Warthestraße 73, 12051 Berlin <br> Phone: 01521 4778586`"
+    },
+    {
+        "name": "Jamal Afro Shop",
+        "city": "Berlin",
+        "zipCode": "13353",
+        "coords": "{lat: 52.4801395, lng: 13.4329839}",
+        "infos": "`Jamal Afro Shop, <br> Torfstraße 21, 13353 Berlin <br> Phone: 030 81799939`"
+    },
+    {
+        "name": "Isheri Afro Shop",
+        "city": "Berlin",
+        "zipCode": "10559",
+        "coords": "{lat: 52.5321169, lng: 13.3511112}",
+        "infos": "`Isheri Afro Shop, <br> Rathenower Straße 25, 10559 Berlin <br> Phone: 030 39408844`"
+    },
+    {
+        "name": "Afro Roots Beauty Shop",
+        "city": "Berlin",
+        "zipCode": "10623",
+        "coords": "{lat: 52.5049013, lng: 13.3287844}",
+        "infos": "`Afro Roots Beauty Shop, <br> Lotte-Lenya-Bogen 553, 10623 Berlin <br> Phone: 030 31017720`"
+    },
+    {
+        "name": "Alpha and Omega International Afro Shop",
+        "city": "Berlin",
+        "zipCode": "12047",
+        "coords": "{lat: 52.488168, lng: 13.4263035}",
+        "infos": "`Alpha and Omega International Afro Shop, <br> Weserstraße 3, 12047 Berlin <br> Phone: 030 61624972`"
+    },
+    {
+        "name": "Afro Lydia Hair Salon",
+        "city": "Berlin",
+        "zipCode": "10783",
+        "coords": "{lat: 52.4937118, lng: 13.3637096}",
+        "infos": "`Afro Lydia Hair Salon, <br> Goebenstraße 7, 10783 Berlin <br> Phone: 0176 32844120`"
+    },
+    {
+        "name": "Afro Euro Beauty Shop",
+        "city": "Berlin",
+        "zipCode": "13347",
+        "coords": "{lat: 52.548415, lng: 13.3627331}",
+        "infos": "`Afro Euro Beauty Shop, <br> Schulstraße 17, 13347 Berlin <br> Phone: 030 46066399`"
+    },
+    {
+        "name": "One Love Afro Shop",
+        "city": "Berlin",
+        "zipCode": "13585",
+        "coords": "{lat: 52.5457861, lng: 13.2083573}",
+        "infos": "`One Love Afro Shop, <br> Neuendorfer Straße 87, 13585 Berlin <br> Phone: 01521 2163465`"
+    },
+    {
+        "name": "Bintas Haarflechtkunst",
+        "city": "Berlin",
+        "zipCode": "10965",
+        "coords": "{lat: 52.4896159, lng: 13.3774594}",
+        "infos": "`Bintas Haarflechtkunst, <br> Kreuzbergstraße 31, 10965 Berlin <br> Phone: 030 27498775`"
+    },
+    {
+        "name": "Martin's Afro Style Shop",
+        "city": "Berlin",
+        "zipCode": "10783",
+        "coords": "{lat: 52.4925932, lng: 13.3611772}",
+        "infos": "`Martin's Afro Style Shop, <br> Potsdamer Straße 189, 10783 Berlin <br> Phone: 0176 67384283`"
+    },
+    {
+        "name": "Miss Selli's Afroshop",
+        "city": "Berlin",
+        "zipCode": "13353",
+        "coords": "{lat: 52.5490149, lng: 13.35008}",
+        "infos": "`Miss Selli's Afroshop, <br> Seestraße 37, 13353 Berlin <br> Phone: 030 32594395`"
+    },
+    {
+        "name": "Zebra Crossing Afro-Shop",
+        "city": "Berlin",
+        "zipCode": "12165",
+        "coords": "{lat: 52.4556185, lng: 13.3237003}",
+        "infos": "`Zebra Crossing Afro-Shop, <br> Berlinickestraße 15, 12165 Berlin <br> Phone: 030 66627766`"
+    },
+    {
+        "name": "Asia & Afroshop",
+        "city": "Berlin",
+        "zipCode": "12053",
+        "coords": "{lat: 52.4747044, lng: 13.4278912}",
+        "infos": "`Asia & Afroshop, <br> Leykestraße 1, 12053 Berlin <br> Phone: 030 62708505`"
+    },
+    {
+        "name": "AFRO CENTER SALON",
+        "city": "Berlin",
+        "zipCode": "12051",
+        "coords": "{lat: 52.4661758, lng: 13.4308304}",
+        "infos": "`AFRO CENTER SALON, <br> Silbersteinstraße 71, 12051 Berlin <br> Phone: 030 62842672`"
+    },
+    {
+        "name": "Hair extension Berlin Malaika Hair",
+        "city": "Berlin",
+        "zipCode": "10623",
+        "coords": "{lat: 52.5088334, lng: 13.3200542}",
+        "infos": "`Hair extension Berlin Malaika Hair, <br> Grolmanstraße 15, 10623 Berlin <br> Phone: 030 36726924`"
+    },
+    {
+        "name": "Abirami Asia & Afro Shop",
+        "city": "Lübeck",
+        "zipCode": "23552",
+        "coords": "{lat: 53.872509, lng: 10.6903287}",
+        "infos": "`Abirami Asia & Afro Shop, <br> Große Burgstraße 26, 23552 Lübeck <br> Phone: 0451 2037425`"
+    },
+    {
+        "name": "Afro salon & Shop",
+        "city": "Lübeck",
+        "zipCode": "23558",
+        "coords": "{lat: 52.4556185, lng: 13.3237003}",
+        "infos": "`Afro salon & Shop, <br> Meierstraße 45, 23558 Lübeck <br> Phone: 0175 8634610`"
+    },
+    {
+        "name": "Afro Beauty Shop Inh. Janet Arp",
+        "city": "Hamburg",
+        "zipCode": "20146",
+        "coords": "{lat: 53.5707825, lng: 9.9781797}",
+        "infos": "`Afro Beauty Shop Inh. Janet Arp, <br> Grindelallee 159, 20146 Hamburg <br> Phone: 0176 70713496`"
+    },
+    {
+        "name": "GapCosmetics.de",
+        "city": "Hamburg",
+        "zipCode": "22765",
+        "coords": "{lat: 53.5508145, lng: 9.9364795}",
+        "infos": "`GapCosmetics.de, <br> Max-Brauer-Allee 46, 22765 Hamburg <br> Phone: 040 8505571`"
+    },
+    {
+        "name": "Peace Afro Shop",
+        "city": "Hamburg",
+        "zipCode": "22041",
+        "coords": "{lat: 53.5773465, lng: 10.086206}",
+        "infos": "`Peace Afro Shop, <br> Wandsbeker Zollstraße 162, 22041 Hamburg`"
+    },
+    {
+        "name": "SOUFI SALON AFRO COSMETICS",
+        "city": "Hamburg",
+        "zipCode": "22089",
+        "coords": "{lat: 53.5683409, lng: 10.0520931}",
+        "infos": "`SOUFI SALON AFRO COSMETICS, <br> Wandsbeker Chaussee 182, 22089 Hamburg <br> Phone: 0176 28517166`"
+    },
+    {
+        "name": "Gap Hair Food & Cosmetics",
+        "city": "Hamburg",
+        "zipCode": "22089",
+        "coords": "{lat: 53.5652483, lng: 10.0360527}",
+        "infos": "`Gap Hair Food & Cosmetics, <br> Wandsbeker Chaussee 17, 22089 Hamburg <br> Phone: 040 88306786`"
+    },
+    {
+        "name": "james afro salon",
+        "city": "Hamburg",
+        "zipCode": "21073",
+        "coords": "{lat: 53.4580964, lng: 9.9806471}",
+        "infos": "`james afro salon, <br> Bremer Straße 18, 21073 Hamburg <br> Phone: 040 53024291`"
+    },
+    {
+        "name": "Pats No. 1 Afro Shop",
+        "city": "Hamburg",
+        "zipCode": "21107",
+        "coords": "{lat: 53.5112996, lng: 9.9865455}",
+        "infos": "`Pats No. 1 Afro Shop, <br> Veringstraße 83, 21107 Hamburg <br> Phone: 040 75602768`"
+    },
+    {
+        "name": "MAS Impex Asian und Afro Supermarkt",
+        "city": "Hamburg",
+        "zipCode": "21073",
+        "coords": "{lat: 53.456404, lng: 9.9860512}",
+        "infos": "`MAS Impex Asian und Afro Supermarkt, <br> Wilstorfer Straße 49, 21073 Hamburg <br> Phone: 040 288007805`"
+    },
+    {
+        "name": "Afro Asia Shop",
+        "city": "Hamburg",
+        "zipCode": "20146",
+        "coords": "{lat: 53.5707825, lng: 9.9781797}",
+        "infos": "`Afro Asia Shop, <br> Grindelallee 159, 20146 Hamburg <br> Phone: 040 45069831`"
+    },
+    {
+        "name": "Zaanas Afroshop",
+        "city": "Hamburg",
+        "zipCode": "20537",
+        "coords": "{lat: 53.5551375, lng: 10.043639}",
+        "infos": "`Zaanas Afroshop, <br> Hammer Landstraße 16, 20537 Hamburg`"
+    },
+    {
+        "name": "Malata Markt Afro Shop",
+        "city": "Hamburg",
+        "zipCode": "20537",
+        "coords": "{lat: 53.5765397, lng: 10.0595206}",
+        "infos": "`Malata Markt Afro Shop, <br> Dithmarscher Straße 2, 22049 Hamburg <br> Phone: 040 687881`"
+    },
+    {
+        "name": "modernhaircreations.com Afro Beauty Salon Modern Hair Creations",
+        "city": "Hamburg",
+        "zipCode": "20537",
+        "coords": "{lat: 53.5608669, lng: 10.0310104}",
+        "infos": "`modernhaircreations.com <br> Afro Beauty Salon Modern Hair Creations, <br> Lübecker Straße 82, 22087 Hamburg <br> Phone: 040 28055481`"
+    },
+    {
+        "name": "Abi Afrika Markt",
+        "city": "Kiel",
+        "zipCode": "24114",
+        "coords": "{lat: 54.314762, lng: 10.1306439}",
+        "infos": "`Abi Afrika Markt, <br> Sophienblatt 60/62, 24114 Kiel <br> Phone: 01521 0760893`"
+    },
+    {
+        "name": "Uptown Barbershop",
+        "city": "Kiel",
+        "zipCode": "24143",
+        "coords": "{lat: 54.3132756, lng: 10.1519072}",
+        "infos": "`Uptown Barbershop, <br> Augustenstraße 74, 24143 Kiel <br> Phone: 0431 12849361`"
+    },
+    {
+        "name": "Afroshop",
+        "city": "Flensburg",
+        "zipCode": "24937",
+        "coords": "{lat: 54.7825058, lng: 9.4349289}",
+        "infos": "`Afroshop, <br> Friesische Straße 8, 24937 Flensburg <br> Phone: 0461 181679`"
+    },
+    {
+        "name": "African Village",
+        "city": "Flensburg",
+        "zipCode": "24939",
+        "coords": "{lat: 54.791497, lng: 9.4333546}",
+        "infos": "`African Village, <br> Schiffbrücke 22, 24939 Flensburg <br> Phone: 01521 0425855`"
+    }
 ]
