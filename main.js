@@ -74,64 +74,17 @@ function getHelp(e) {
 
 };
 
-
-// document.querySelector('.get-jokes').addEventListener('click', getJokes);
-
-// function getJokes(e) {
-//    const number = document.querySelector('input[type="number"]').value;
-
-//    const xhr = new XMLHttpRequest();
-
-//    xhr.open('GET', `http://api.icndb.com/jokes/random/${number}`, true);
-
-//    xhr.onload = function() {
-//        if(this.status === 200) {
-//            const response = JSON.parse(this.responseText);
-
-//            let output = '';
-
-//            if(response.type === 'success') {
-//              response.value.forEach(function(joke) {
-//                  output += `<li>${joke.joke}</li>`;
-//              });
-//            } else {
-//                output += '<li>Something went wrong</li>';
-//            }
-
-//            document.querySelector('.jokes').innerHTML = output;
-//        }
-//    }
-
-//    xhr.send();
-
-//    e.preventDefault();
-// }
-// Which API?
-
-
-// How to fetch the afro shops info for all German cities
+// Function to fetch the afro shops info for all German cities
+// Loop through the shop file to find a match according to the zip or city name
 document.querySelector('shops-btn').addEventListener('click', getShops);
 
 function getShops(e) {
-    // with the xml http request
-    const xhr = new XMLHttpRequest();
-    xhr.open('GET', 'https api link');
-    WaveShaperNode.responseType = 'json';
-    xhr.onload = function() {
-        const dataShops = xhr.response;
-        console.log(dataShops);
-    };
-
-    xhr.send();
-
+    
 }
 
-   // same with fetch API
 
-
-
-
-// How to fetch the afro restaurants infor for all German cities
+// Function to fetch the afro restaurants infor for all German cities
+// Loop through the restaurant file to find a match according to the zip or city name
 document.querySelector('restaurants-btn').addEventListener('click', getRestaurants);
 
 function getRestaurants(e) {
