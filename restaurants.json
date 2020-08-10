@@ -1,3 +1,4 @@
+
 [
     {
         "name": "AFRO-ASIA SHOP + KIOSK",
@@ -361,6 +362,83 @@
         "city": "Hamburg",
         "zipCode": "20097",
         "coords": "{lat: 53.0709213, lng: 8.7957417}",
-        "infos": "`Afrikanisches Bistro by Hadjia, <br> Repsoldstraße 49, 2009 <br> Phone: 0421 9597777`"
+        "infos": "`Afrikanisches Bistro by Hadjia, <br> Repsoldstraße 49, 20097 Hamburg <br> Phone: 0421 9597777`"
     },
+    {
+        "name": "Papaye Restaurant Afrikanisches Restaurant",
+        "city": "Hamburg",
+        "zipCode": "20049",
+        "coords": "{lat: 53.5765628, lng: 10.05964}",
+        "infos": "`Papaye Restaurant Afrikanisches Restaurant, <br> Stormarner Straße 1, 22049 Hamburg <br> Phone: 040 50699541`"
+    },
+    {
+        "name": "Bejte Ethiopia",
+        "city": "Berlin",
+        "zipCode": "10783",
+        "coords": "{lat: 52.4993517, lng: 13.3570701}",
+        "infos": "`Bejte Ethiopia, <br> Zietenstraße 8, 10783 Berlin <br> Phone: 030 2625933`"
+    },
+    {
+        "name": "YAAM",
+        "city": "Berlin",
+        "zipCode": "10997",
+        "coords": "{lat: 52.5098465, lng: 13.4302553}",
+        "infos": "`YAAM, <br> An der Schillingbrücke 3, 10997 Berlin <br> Phone: 030 6151354`"
+    },
+    {
+        "name": "Massai-Berlin",
+        "city": "Berlin",
+        "zipCode": "10437",
+        "coords": "{lat: 52.5418515, lng: 13.4156678}",
+        "infos": "`Massai-Berlin, <br> Lychener Straße 12, 10437 Berlin <br> Phone: 030 48625595`"
+    },
+    {
+        "name": "Langano",
+        "city": "Berlin",
+        "zipCode": "10999",
+        "coords": "{lat: 52.4965238, lng: 13.418329}",
+        "infos": "`Langano, <br> Kohlfurter Straße 44, 10999 Berlin <br> Phone: 030 61507103`"
+    },
+    {
+        "name": "Nil Sudanesischer Imbiss",
+        "city": "Berlin",
+        "zipCode": "10245",
+        "coords": "{lat: 52.5118348, lng: 13.4556012}",
+        "infos": "`Nil Sudanesischer Imbiss, <br> Grünberger Straße 52, 10245 Berlin <br> Phone: 030 29047714`"
+    },
+    {
+        "name": "Savanna",
+        "city": "Berlin",
+        "zipCode": "10435",
+        "coords": "{lat: 52.5382649, lng: 13.4164033}",
+        "infos": "`Savanna, <br> Sredzkistraße 26, 10435 Berlin <br> Phone: 030 44318621`"
+    },
+    {
+        "name": "Blue Nile",
+        "city": "Berlin",
+        "zipCode": "10963",
+        "coords": "{lat: 52.4978603, lng: 13.3873565}",
+        "infos": "`Blue Nile, <br> Tempelhofer Ufer 6, 10963 Berlin <br> Phone: 030 25294655`"
+    },
+    {
+        "name": "Muday",
+        "city": "Berlin",
+        "zipCode": "10245",
+        "coords": "{lat: 52.5123703, lng: 13.4538478}",
+        "infos": "`Muday, <br> Grünberger Straße 33, 10245 Berlin <br> Phone: 0176 22630367`"
+    },
+    {
+        "name": "Ebe Ano",
+        "city": "Berlin",
+        "zipCode": "10779",
+        "coords": "{lat: 52.494015, lng: 13.3374765}",
+        "infos": "`Ebe Ano, <br> Bamberger Straße 49, 10779 Berlin <br> Phone: 0176 82043405`"
+    },
+    {
+        "name": "Bantou Village",
+        "city": "Berlin",
+        "zipCode": "13351",
+        "coords": "{lat: 52.5517957, lng: 13.3485215}",
+        "infos": "`Bantou Village, <br> Kameruner Straße 2, 13351 Berlin <br> Phone: 030 45797636`"
+    }
 ]

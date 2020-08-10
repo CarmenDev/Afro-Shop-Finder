@@ -74,17 +74,43 @@ function getHelp(e) {
 
 };
 
-// Function to fetch the afro shops info for all German cities
+// I'll probably need a callback to include the location function into the get functions
+// Launch location function when input matches either a city or a zip code in the json files
+// If input in the searchbox matches either a city or a zip, print out infos
+// Franco: use parseInt method to check if zipcode or cityname
+// Now check data, filter results from json files to 
+let check = searchbar.value == "search_value"; // should check if true or false
+if(check) {
+    // print out infos for the corresponding objects
+} else {
+    search_results.innerHTML = "No results."; // add a timeout
+};
+
+// Function to fetch the afro shops from the json file: use fetch
 // Loop through the shop file to find a match according to the zip or city name
+// Show the shops info on the right side in case there are matches
+// Add markers on the map in case there are matches
+
 document.querySelector('shops-btn').addEventListener('click', getShops);
 
 function getShops(e) {
-    
+    fetch("./shops.json")
+        .then(function(resp) {
+            return resp.json();
+        })
+        .then(function(data) {
+            search_results.innerHTML ="obj.infos"; // print out the infos. Process the data, loop to go through the array and grab the key to print it. Seperate function to go through the data
+        })
 }
+// "I used fetch to store the info on a remote server in the future"
+
+function displayInfo(); // the data should be an array
 
 
-// Function to fetch the afro restaurants infor for all German cities
+// Function to fetch the restaurants from the json file: use fetch
 // Loop through the restaurant file to find a match according to the zip or city name
+// Show the restaurants info on the right side in case there are matches
+// Add markers on the map in case there are matches
 document.querySelector('restaurants-btn').addEventListener('click', getRestaurants);
 
 function getRestaurants(e) {
@@ -97,7 +123,10 @@ function getRestaurants(e) {
 
 
 
-// How to fetch the afro clubs info for all German cities
+// Function to fetch the clubs from the json file: use fetch
+// Loop through the club file to find a match according to the zip or city name
+// Show the clubs info on the right side in case there are matches
+// Add markers on the map in case there are matches
 document.querySelector('clubs-btn').addEventListener('click', getClubs);
 
 function getClubs(e) {
@@ -116,4 +145,10 @@ function getClubs(e) {
 
 
 // Local storage?
+
+
+
+
+// Figure out if user input city or zipcode
+// function to check input value type (for eg. parseInt)
 
