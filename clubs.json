@@ -29,10 +29,9 @@
         },
         {
             "name": "RUDE7 Club",
-            "city": "Hannover",
+            "city": "Mannheim",
             "zipCode": "30159",
-            "coords": "{lat: 52.374862, lng: 9.7317533}",
-            "infos": "`Temptation, <br> Scholvinstraße 5, 30159 Hannover <br> Phone: 01523 3910451`"
+            "coords": "{lat: 49.5061756, lng: 8.4602607}",
+            "infos": "`RUDE7 Club, <br> Industriestraße 7c, 68169 Mannheim`"
         }
-    
     ]

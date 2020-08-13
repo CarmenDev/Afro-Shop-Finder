@@ -1,5 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Jost&family=Mukta&display=swap');
 
+:root {
+    --success-color: #2ecc71;
+    --error-color: #e74c3c;
+}
+
 * {
     box-sizing: border-box;
 }
@@ -65,8 +70,9 @@ body {
     height: 83vh;
 }
 
+/*Map*/
 #map-container {
-    flex-grow: 2;
+    width: 60vw;
     /* -moz-box-shadow:    inset 0 0 10px #000000;
     -webkit-box-shadow: inset 0 0 10px #000000;
     box-shadow:         inset 0 0 10px #000000; */
@@ -74,13 +80,82 @@ body {
 }
 
 .search_results {
-    flex-grow: 1;
+    width: 35vw;
     border-top: 1px solid rgb(226, 226, 226);
     font-family: 'Jost', sans-serif;
     text-align: center;
 }
+.search_results p {
+    margin: 40px;
+}
 
+/*Sign in or join*/
+.form {
+    padding: 70px;
+    display: none;
+}
 
+.form-control {
+    margin-bottom: 10px;
+    padding-bottom: 20px;
+    position: relative;
+}
+
+.form-control label {
+    color: #777;
+    display: block;
+    margin-bottom: 5px;
+}
+
+.form-control input {
+    border: 2px solid #f0f0f0;
+    border-radius: 4px;
+    display: block;
+    width: 100%;
+    padding: 14px;
+
+}
+
+.form-control input:focus {
+    outline: 0;
+    border-color: #777;
+}
+
+.form-control.success input {
+    border-color: var(--success-color);
+}
+
+.form-control.error input {
+    border-color: var(--error-color);
+}
+
+.form-control small {
+    color:  var(--error-color);
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    visibility: hidden; /*makes it invisible*/
+    display: none; /*will collapse anything around it*/
+}
+
+.form-control.error small {
+    visibility: visible;
+}
+
+.form button {
+    cursor: pointer;
+    background-color: #3498db;
+    border: 2px solid #3498db;
+    border-radius: 4px;
+    color: #fff;
+    display: block;
+    font-size: 16px;
+    padding: 10px;
+    margin-top: 20px;
+    width: 100%;
+}
+
+/*Bottom navbar*/
 .bottom-nav {
     margin-right: 30px;
     margin-top: 1px;
@@ -92,4 +167,10 @@ body {
 }
 .bottom-nav a {
     margin: 6px;
+}
+
+.cookiePrefImg {
+    width: 25vw;
+    height: 60vh;
+    margin-top: 10vh;
 }
