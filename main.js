@@ -1,4 +1,4 @@
-// Buttons and search bar
+// Buttons and search bar variables
 const advertise_btn = document.getElementById('advertise');
 const login_btn = document.getElementById('login');
 const help_btn = document.getElementById('help');
@@ -28,16 +28,118 @@ function initMap() {
 //     });
     
     addMarker({lat: 53.5511, lng: 9.9937});
-    // Add Marker Function
-    function addMarker(coords) {
-        let marker = new google.maps.Marker({
-            position: coords,
-            map: map
-        });
-    }
 }
 
-// Button functions
+// Add Marker Function
+function addMarker(coords) {
+    let marker = new google.maps.Marker({
+        position: coords,
+        map: map
+    });
+}
+
+// Example with "Shops"
+// Click on Shops to access shops array of objects
+// Use input searchbar input value to filter through the data
+// Display array of results on the right
+// Add marker on the map
+
+// MAIN SEARCHBAR
+shops_btn.addEventListener('click', getShops);
+// fetch all shops info when click on "shops", from there filter info from json files according to input value in searchbar
+// display info on right side and add marker
+function getShops(e) {
+    // Input value variable
+    const inputVal = searchbar.value;
+
+    fetch("./shops.json")
+        .then(function(resp) {
+            return resp.json();
+        })
+        .then(function(data) {
+
+            const newArray = data.filter(function(obj) {
+                if(obj.zipCode === inputVal || obj.city === inputVal) {
+                    return obj;
+                }
+            }) 
+            //console.log(newArray);
+            newArray.forEach(element => {
+                let print = document.createElement('li');
+                search_results.appendChild(print);
+                print.textContent = element.infos;
+
+                //initMap();
+                //addMarker(element.coords);
+            });
+
+        })
+}
+// "I used fetch to store the info on a remote server in the future"
+
+restaurants_btn.addEventListener('click', getRestaurants);
+// fetch all restaurants info when click on "shops", from there filter info from json files according to input value in searchbar
+// display info on right side and add marker
+function getRestaurants(e) {
+    // Input value variable
+    const inputVal = searchbar.value;
+
+    fetch("./restaurants.json")
+        .then(function(resp) {
+            return resp.json();
+        })
+        .then(function(data) {
+
+            const newArray = data.filter(function(obj) {
+                if(obj.zipCode === inputVal || obj.city === inputVal) {
+                    return obj;
+                }
+            }) 
+            //console.log(newArray);
+            newArray.forEach(element => {
+                let print = document.createElement('li');
+                search_results.appendChild(print);
+                print.textContent = element.infos;
+
+                //initMap();
+                //addMarker(element.coords);
+            });
+
+        })
+}
+
+clubs_btn.addEventListener('click', getClubs);
+// fetch all clubs info when click on "shops", from there filter info from json files according to input value in searchbar
+// display info on right side and add marker
+function getClubs(e) {
+    // Input value variable
+    const inputVal = searchbar.value;
+
+    fetch("./clubs.json")
+        .then(function(resp) {
+            return resp.json();
+        })
+        .then(function(data) {
+
+            const newArray = data.filter(function(obj) {
+                if(obj.zipCode === inputVal || obj.city === inputVal) {
+                    return obj;
+                }
+            }) 
+            //console.log(newArray);
+            newArray.forEach(element => {
+                let print = document.createElement('li');
+                search_results.appendChild(print);
+                print.textContent = element.infos;
+
+                //initMap();
+                //addMarker(element.coords);
+            });
+
+        })
+}
+
+// BUTTON FUNCTIONS
 // advertise
 advertise_btn.addEventListener('click', getAd);
 function getAd(e) {
@@ -75,100 +177,7 @@ function getHelp(e) {
     }, 5000);
 };
 
-// Franco: use parseInt method to check if zipcode or cityname
-// Fetch all the restaurants info when click on "restaurants", same for clubs and shops.
-// From there filter the info from json files according to the value entered in the input field.
-// 3 functions: getShops, getRestaurants, getClubs
-// 1 function displayInfo to filter the data according to the inputvalue in searchbar
-
-// Function to fetch the afro shops from the json file: use fetch
-// Loop through the shop file to find a match according to the zip or city name
-// Show the shops info on the right side in case there are matches
-// Add markers on the map in case there are matches
-
-
-// Check input value
-// let check = searchbar.value == 'zipCode' || searchbar.value == 'city'; // should check if true or false
-// 1 Iterate through the entire list of objects in a JSON array
-// 2 then for each JSON object, we get the value mapped to the given key
-
-// Main searchbar
-shops_btn.addEventListener('click', getShops);
-
-function getShops(e) {
-    fetch("./shops.json")
-        .then(function(resp) {
-            return resp.json();
-        })
-        .then(function(data) {
-            for(let prop in obj) {
-                let check = searchbar.value == obj.city || searchbar.value == obj.zipCode;
-                if(check) {
-                    const result = obj.infos;
-                    search_results.appendChild(result);
-                } else {
-                    search_results.innerHTML = `No results`;
-                }
-            }
-        })
-}
-// "I used fetch to store the info on a remote server in the future"
-
-
-// Function to fetch the restaurants from the json file: use fetch
-// Loop through the restaurant file to find a match according to the zip or city name
-// Show the restaurants info on the right side in case there are matches
-// Add markers on the map in case there are matches
-restaurants_btn.addEventListener('click', getRestaurants);
-
-function getRestaurants(e) {
-    fetch("./restaurants.json")
-    .then(function(resp) {
-        return resp.json();
-    })
-    .then(function(data) {
-        console.log(data); // Process the data, loop to go through the array and grab the key to print it. 
-        // displayInfo function as callback to print the data?
-    })
-
-}
-
-
-
-// Function to fetch the clubs from the json file: use fetch
-// Loop through the club file to find a match according to the zip or city name
-// Show the clubs info on the right side in case there are matches
-// Add markers on the map in case there are matches
-clubs_btn.addEventListener('click', getClubs);
-
-function getClubs(e) {
-    fetch("./clubs.json")
-    .then(function(resp) {
-        return resp.json();
-    })
-    .then(function(data) {
-        search_results.innerHTML = data.infos; // Process the data, loop to go through the array and grab the key to print it. 
-        // displayInfo function as callback to print the data?
-    })
-
-}
-
-// Check for input value
-/*
-let check = searchbar.value == "search_value"; // should check if true or false
-if(check) {
-    // print out infos for the corresponding objects
-} else {
-    search_results.innerHTML = "No results."; // add a timeout
-};
-*/
-
-// Display info
-function displayInfo(){
-    
-}; // the data should be an array
-
-// Bottom nav
+// BOTTOM NAV
 const aboutBtn = document.getElementById('about');
 const privacyBtn = document.getElementById('privacy');
 const cookiePref = document.getElementById('cookie');
