@@ -45,15 +45,7 @@ function initMap() {
         coords: {lat: 53.5508145, lng: 9.9364795},
         content: '<h3> GapCosmetics.de </h3>'
     }); // GapCosmetics.de, HH
-    
-    // addMarker({lat: 53.5707825, lng: 9.9781797});
-    // addMarker({lat: 53.5773465, lng: 10.086206});
-    // addMarker({lat: 53.5683409, lng: 10.0520931});
 }
-
-// Parse JSON files
-
-
 
 // MAIN SEARCHBAR
 shops_btn.addEventListener('click', getShops);
@@ -74,13 +66,12 @@ function getShops(e) {
                 }
             })
 
-            //console.log(newArray);
             newArray.forEach(element => {
                 let print = document.createElement('li');
                 print.classList.add('listElement');
                 search_results.appendChild(print);
                 print.textContent = element.infos;
-                // HOW TO ADD MULTIPLE MARKERS. Add a marker for each location
+                // ADD MULTIPLE MARKERS. Add a marker for each location
             });
         })
 }
@@ -102,7 +93,7 @@ function getRestaurants(e) {
                     return obj;
                 }
             }) 
-            //console.log(newArray);
+         
             newArray.forEach(element => {
                 let print = document.createElement('li');
                 print.classList.add('listElement');
@@ -129,15 +120,12 @@ function getClubs(e) {
                     return obj;
                 }
             }) 
-            //console.log(newArray);
+            
             newArray.forEach(element => {
                 let print = document.createElement('li');
                 print.classList.add('listElement');
                 search_results.appendChild(print);
                 print.textContent = element.infos;
-
-                //initMap();
-                //addMarker(element.coords);
             });
         })
 }
@@ -220,10 +208,20 @@ function displayCookiePref() {
 };
 
 // terms of use
+termsOfUse.addEventListener('click', displayTerms)
 
+function displayTerms() {
+    const termsTitle = document.createElement('h1');
+    termsTitle.innerHTML = 'Terms and Conditions';
+    search_results.appendChild(termsTitle);
+    const termsText = document.createElement('p');
+    termsText.innerHTML = 'The purpose of a Terms and Conditions agreement is to prevent misunderstandings between the business owner (you), and the consumer. The agreement helps you: <br>Protect your intellectual property <br> Avoid website abuse <br> Define the limits of your legal obligations to the consumer <br> Essentially, the T&C helps you run your business more effectively <br> and with greater peace of mind. <br> This agreement forms the basis of an enforceable legal relationship. <br> It tells anyone browsing your website, whether they are a casual visitor or an active client, what their legal responsibilities and rights are.<br> It also gives you, as the business owner and service provider, authority over certain undesirable things that a consumer may do on your website. <br> However, let us consider the specific reasons why business owners should always include a Terms and Conditions agreement on their website.'
+    search_results.appendChild(termsText);
+
+}
 
 // Upcoming features
 
 function myAlert() {
-    return alert ('Coming soon!');
+    return alert ('Save Search feature coming soon!');
 }
