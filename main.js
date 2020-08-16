@@ -13,6 +13,7 @@ const search_results = document.querySelector('.search_results');
 // Map container variable
 const map_container = document.getElementById('map-container');
 
+
 // Google maps API
 function initMap() { 
     // Map options
@@ -24,15 +25,35 @@ function initMap() {
     let map = new google.maps.Map(map_container, options);
 
     // Add Marker Function
-    function addMarker(coords) {
+    function addMarker(props) {
         let marker;
             marker = new google.maps.Marker({
-            position: coords,
+            position: props.coords,
             map: map 
         });
+
+        let infoWindow = new google.maps.InfoWindow({
+            content: '<h3> GapCosmetics.de </h3>'
+        });
+
+        marker.addListener('click', function() {
+            infoWindow.open(map, marker);
+        })
     }
-    addMarker({lat: 53.5511, lng: 9.9937});
+    // Marker examples with info windows
+    addMarker({
+        coords: {lat: 53.5508145, lng: 9.9364795},
+        content: '<h3> GapCosmetics.de </h3>'
+    }); // GapCosmetics.de, HH
+    
+    // addMarker({lat: 53.5707825, lng: 9.9781797});
+    // addMarker({lat: 53.5773465, lng: 10.086206});
+    // addMarker({lat: 53.5683409, lng: 10.0520931});
 }
+
+// Parse JSON files
+
+
 
 // MAIN SEARCHBAR
 shops_btn.addEventListener('click', getShops);
@@ -47,23 +68,22 @@ function getShops(e) {
         })
         .then(function(data) {
 
-            const newArray = data.filter(function(obj) {
+                let newArray = data.filter(function(obj) {
                 if(obj.zipCode === inputVal || obj.city === inputVal) {
                     return obj;
                 }
-            }) 
+            })
+
             //console.log(newArray);
             newArray.forEach(element => {
                 let print = document.createElement('li');
                 print.classList.add('listElement');
                 search_results.appendChild(print);
                 print.textContent = element.infos;
-                // HOW TO ADD MULTIPLE MARKERS
-                
+                // HOW TO ADD MULTIPLE MARKERS. Add a marker for each location
             });
         })
 }
-// "I used fetch to store the info on a remote server in the future"
 
 restaurants_btn.addEventListener('click', getRestaurants);
 
@@ -87,7 +107,7 @@ function getRestaurants(e) {
                 let print = document.createElement('li');
                 print.classList.add('listElement');
                 search_results.appendChild(print);
-                print.textContent = element.infos;
+                print.textContent = element.infos;  
             });
         })
 }
@@ -200,3 +220,10 @@ function displayCookiePref() {
 };
 
 // terms of use
+
+
+// Upcoming features
+
+function myAlert() {
+    return alert ('Coming soon!');
+}
