@@ -1,18 +1,8 @@
-Single page application (SPA)
+JavaScript project - 08/17/20
 
-App to find afro shops, african restaurants, afro clubs (and travel agents?) in Germany. Where can I get the data from? Google.
+This single page application (SPA) helps users find afro shops, restaurants and clubs in Germany thanks to a search by city or ZIP code. The search results are materialized on a Google map.
 
-Specific search
-Map API
-I can categorize my research in Google maps API
+Keywords: HTML, CSS, DOM, JSON, SPA, forms, Google Maps API
 
-Name for the SPA?
-
-... Afro shop finder
-... Afro-Germany
-... or a name of a typical item
-
-
-//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-
-Long term, I would like to extend this as a mobile app in which you can register your shop or restaurant on your own.
+As soon as we learn how to build mobile apps, this project will be extended and users will be able to register their shop, club or restaurant. 
+This app will eventually to take on an international scope.

@@ -88,6 +88,16 @@ body {
 .search_results p {
     margin: 40px;
 }
+div.search_results {
+    width: 40vw;
+    height: 83vh;
+    overflow-x: hidden; 
+    overflow-y: auto; 
+}
+.listElement {
+    margin: 5vh;
+    text-align: center;
+}
 
 /*Sign in or join*/
 .form {

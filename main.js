@@ -10,44 +10,33 @@ const clubs_btn = document.getElementById('clubs-btn');
 const save_btn = document.getElementById('save-btn');
 
 const search_results = document.querySelector('.search_results');
+// Map container variable
+const map_container = document.getElementById('map-container');
 
 // Google maps API
-function initMap() {
-    // Map otions
-    const options = {
+function initMap() { 
+    // Map options
+    let options = {
         zoom: 8,
         center: {lat: 53.5511, lng: 9.9937}
     }
     // New map
-    const map = new google.maps.Map(document.getElementById('map-container'), options);
+    let map = new google.maps.Map(map_container, options);
 
-//     Add marker
-//     let marker = new google.maps.Marker({
-//         position: {lat: 53.5908, lng: 9.9316},
-//         map: map
-//     });
-    
+    // Add Marker Function
+    function addMarker(coords) {
+        let marker;
+            marker = new google.maps.Marker({
+            position: coords,
+            map: map 
+        });
+    }
     addMarker({lat: 53.5511, lng: 9.9937});
 }
 
-// Add Marker Function
-function addMarker(coords) {
-    let marker = new google.maps.Marker({
-        position: coords,
-        map: map
-    });
-}
-
-// Example with "Shops"
-// Click on Shops to access shops array of objects
-// Use input searchbar input value to filter through the data
-// Display array of results on the right
-// Add marker on the map
-
 // MAIN SEARCHBAR
 shops_btn.addEventListener('click', getShops);
-// fetch all shops info when click on "shops", from there filter info from json files according to input value in searchbar
-// display info on right side and add marker
+
 function getShops(e) {
     // Input value variable
     const inputVal = searchbar.value;
@@ -66,20 +55,18 @@ function getShops(e) {
             //console.log(newArray);
             newArray.forEach(element => {
                 let print = document.createElement('li');
+                print.classList.add('listElement');
                 search_results.appendChild(print);
                 print.textContent = element.infos;
-
-                //initMap();
-                //addMarker(element.coords);
+                // HOW TO ADD MULTIPLE MARKERS
+                
             });
-
         })
 }
 // "I used fetch to store the info on a remote server in the future"
 
 restaurants_btn.addEventListener('click', getRestaurants);
-// fetch all restaurants info when click on "shops", from there filter info from json files according to input value in searchbar
-// display info on right side and add marker
+
 function getRestaurants(e) {
     // Input value variable
     const inputVal = searchbar.value;
@@ -98,19 +85,15 @@ function getRestaurants(e) {
             //console.log(newArray);
             newArray.forEach(element => {
                 let print = document.createElement('li');
+                print.classList.add('listElement');
                 search_results.appendChild(print);
                 print.textContent = element.infos;
-
-                //initMap();
-                //addMarker(element.coords);
             });
-
         })
 }
 
 clubs_btn.addEventListener('click', getClubs);
-// fetch all clubs info when click on "shops", from there filter info from json files according to input value in searchbar
-// display info on right side and add marker
+
 function getClubs(e) {
     // Input value variable
     const inputVal = searchbar.value;
@@ -129,13 +112,13 @@ function getClubs(e) {
             //console.log(newArray);
             newArray.forEach(element => {
                 let print = document.createElement('li');
+                print.classList.add('listElement');
                 search_results.appendChild(print);
                 print.textContent = element.infos;
 
                 //initMap();
                 //addMarker(element.coords);
             });
-
         })
 }
 
@@ -157,7 +140,6 @@ login_btn.addEventListener('click', loginForm);
 const form = document.getElementById('form');
 function loginForm(e) {
     form.style.display = "block";
-
 }
 
 // help
