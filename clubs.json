@@ -3,35 +3,35 @@
             "name": "Juice Club",
             "city": "Hamburg",
             "zipCode": "22769",
-            "coords": "{lat: 53.5628973, lng: 9.944705}",
+            "coords": "{\"lat\": 53.5628973, \"lng\": 9.944705}",
             "infos": "Juice Club,\nStresemannstraße 204,\n22769 Hamburg"
         },
         {
             "name": "Empire Lounge",
             "city": "Hamburg",
             "zipCode": "22083",
-            "coords": "{lat: 53.5797746, lng: 10.0395848}",
+            "coords": "{\"lat\": 53.5797746, \"lng\": 10.0395848}",
             "infos": "Empire Lounge,\nHamburger Straße 209,\n22083 Hamburg"
         },
         {
             "name": "Surprise Club Berlin",
             "city": "Berlin",
             "zipCode": "10785",
-            "coords": "{lat: 52.5034928, lng: 13.3656883}",
+            "coords": "{\"lat\": 52.5034928, \"lng\": 13.3656883}",
             "infos": "Surprise Club Berlin,\nPotsdamer Straße 84,\n10785 Berlin\nPhone: 0172 3830653"
         },
         {
             "name": "Temptation",
             "city": "Hannover",
             "zipCode": "30159",
-            "coords": "{lat: 52.374862, lng: 9.7317533}",
+            "coords": "{\"lat\": 52.374862, \"lng\": 9.7317533}",
             "infos": "Temptation,\nScholvinstraße 5, 30159 Hannover\nPhone: 01523 3910451"
         },
         {
             "name": "RUDE7 Club",
             "city": "Mannheim",
             "zipCode": "30159",
-            "coords": "{lat: 49.5061756, lng: 8.4602607}",
+            "coords": "{\"lat\": 49.5061756, \"lng\": 8.4602607}",
             "infos": "RUDE7 Club,\nIndustriestraße 7c, 68169 Mannheim"
         }
     ]

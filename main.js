@@ -15,37 +15,38 @@ const map_container = document.getElementById('map-container');
 
 
 // Google maps API
-function initMap() { 
-    // Map options
-    let options = {
-        zoom: 8,
-        center: {lat: 53.5511, lng: 9.9937}
-    }
-    // New map
-    let map = new google.maps.Map(map_container, options);
-
-    // Add Marker Function
-    function addMarker(props) {
-        let marker;
-            marker = new google.maps.Marker({
-            position: props.coords,
-            map: map 
-        });
-
-        let infoWindow = new google.maps.InfoWindow({
-            content: '<h3> GapCosmetics.de </h3>'
-        });
-
-        marker.addListener('click', function() {
-            infoWindow.open(map, marker);
-        })
-    }
-    // Marker examples with info windows
-    addMarker({
-        coords: {lat: 53.5508145, lng: 9.9364795},
-        content: '<h3> GapCosmetics.de </h3>'
-    }); // GapCosmetics.de, HH
+let map;
+// let map = new google.maps.Map(map_container, options);
+let options = {
+    zoom: 8,
+    center: {lat: 53.5511, lng: 9.9937}
 }
+
+function initMap() { 
+    map = new google.maps.Map(map_container, options);
+    addNewMarkers({
+        coords: {lat: 53.5811744, lng: 9.9347062},
+        name: '<h3> You\'re here </h3>'
+    });
+}
+
+// Public Function add new markers
+function addNewMarkers(props) {
+
+    const marker = new google.maps.Marker({
+        position: props.coords,
+        map: map 
+    });
+    
+    const infoWindow = new google.maps.InfoWindow({
+        content: props.name
+    });
+
+    marker.addListener('click', function() {
+        infoWindow.open(map, marker);
+    })
+};
+
 
 // MAIN SEARCHBAR
 shops_btn.addEventListener('click', getShops);
@@ -72,7 +73,13 @@ function getShops(e) {
                 search_results.appendChild(print);
                 print.textContent = element.infos;
                 // ADD MULTIPLE MARKERS. Add a marker for each location
+
+                addNewMarkers({
+                    coords: JSON.parse(element.coords),
+                    name: element.name
+                 });
             });
+
         })
 }
 
@@ -99,6 +106,12 @@ function getRestaurants(e) {
                 print.classList.add('listElement');
                 search_results.appendChild(print);
                 print.textContent = element.infos;  
+                // ADD MULTIPLE MARKERS. Add a marker for each location
+
+                addNewMarkers({
+                    coords: JSON.parse(element.coords),
+                    name: element.name
+                 });
             });
         })
 }
@@ -126,6 +139,12 @@ function getClubs(e) {
                 print.classList.add('listElement');
                 search_results.appendChild(print);
                 print.textContent = element.infos;
+                // ADD MULTIPLE MARKERS. Add a marker for each location
+
+                addNewMarkers({
+                    coords: JSON.parse(element.coords),
+                    name: element.name
+                 });
             });
         })
 }

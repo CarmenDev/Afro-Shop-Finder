@@ -4,441 +4,441 @@
         "name": "AFRO-ASIA SHOP + KIOSK",
         "city": "Hanau",
         "zipCode": "63450",
-        "coords": "{lat: 50.1365719, lng: 8.914779}",
+        "coords": "{\"lat\": 50.1365719, \"lng\": 8.914779}",
         "infos": "AFRO-ASIA SHOP + KIOSK,\nHospitalstraße 13, 63450 Hanau\nPhone: 06181 4348730"
     },
     {
         "name": "Makula",
         "city": "Munich",
         "zipCode": "80469",
-        "coords": "{lat: 48.1221351, lng: 11.5613434}",
+        "coords": "{\"lat\": 48.1221351, \"lng\": 11.5613434}",
         "infos": "Makula,\nDreimühlenstraße 14, 80469 Munich\nPhone: 089 13941213"
     },
     {
         "name": "Abyssinia Restaurant Teff",
         "city": "Munich",
         "zipCode": "80637",
-        "coords": "{lat: 48.1602853, lng: 11.5460847}",
+        "coords": "{\"lat\": 48.1602853, \"lng\": 11.5460847}",
         "infos": "Abyssinia Restaurant Teff,\nDachauer Straße 189, 80637 Munich\nPhone: 01511 1772888"
     },
     {
         "name": "Restaurant Savanna Munich",
         "city": "Hanau",
         "zipCode": "80337",
-        "coords": "{lat: 48.1262705, lng: 11.5613441}",
+        "coords": "{\"lat\": 48.1262705, \"lng\": 11.5613441}",
         "infos": "Restaurant Savanna Munich,\nMaistraße 63, 80337 Munich\nPhone: 089 53906363"
     },
     {
         "name": "Ogidiga's Afro Bar",
         "city": "Munich",
         "zipCode": "80337",
-        "coords": "{lat: 48.1262705, lng: 11.5613441}",
+        "coords": "{\"lat\": 48.1262705, \"lng\": 11.5613441}",
         "infos": "Ogidiga's Afro Bar,\nMaistraße 63, 80337 Munich\nPhone: 01521 7889920"
     },
     {
         "name": "Hakuna Matata",
         "city": "Neu-Ulm",
         "zipCode": "89231",
-        "coords": "{lat: 48.3980967, lng: 10.0038419}",
+        "coords": "{\"lat\": 48.3980967, \"lng\": 10.0038419}",
         "infos": "Hakuna Matata,\nBrückenstraße 3, 89231 Neu-Ulm\nPhone: 0731 71807032"
     },
     {
         "name": "Makamba",
         "city": "Stuttgart",
         "zipCode": "70180",
-        "coords": "{lat: 48.7698698, lng: 9.1769203}",
+        "coords": "{\"lat\": 48.7698698, \"lng\": 9.1769203}",
         "infos": "Makamba,\nSchlosserstraße 16, 70180 Stuttgart\nPhone: 0711 6400754"
     },
     {
         "name": "Ambiente Africa",
         "city": "Stuttgart",
         "zipCode": "70182",
-        "coords": "{lat: 48.7777104, lng: 9.1881256}",
+        "coords": "{\"lat\": 48.7777104, \"lng\": 9.1881256}",
         "infos": "Ambiente Africa,\nWerastraße 1, 70182 Stuttgart\nPhone: 0711 2365511"
     },
     {
         "name": "Ebony",
         "city": "Stuttgart",
         "zipCode": "70176",
-        "coords": "{lat: 49.08333, lng: 9.66667}",
+        "coords": "{\"lat\": 49.08333, \"lng\": 9.66667}",
         "infos": "Ebony,\nHerzogstraße 11, 70716 Stuttgart\nPhone: 0711 625834"
     },
     {
         "name": "Madagascar",
         "city": "Stuttgart",
         "zipCode": "70180",
-        "coords": "{lat: 48.7635738, lng: 9.1686034}",
+        "coords": "{\"lat\": 48.7635738, \"lng\": 9.1686034}",
         "infos": "Madagascar,\nFilderstraße 61, 70180 Stuttgart\nPhone: 0711 50456044"
     },
     {
         "name": "Restaurant Äquator",
         "city": "Stuttgart",
         "zipCode": "70372",
-        "coords": "{lat: 48.80238214, lng: 9.2224268}",
+        "coords": "{\"lat\": 48.80238214, \"lng\": 9.2224268}",
         "infos": "Restaurant Äquator,\nKreuznacher Straße 57, 70372 Stuttgart\nPhone: 0711 5920137"
     },
     {
         "name": "Injeera Restaurant",
         "city": "Stuttgart",
         "zipCode": "70182",
-        "coords": "{lat: 48.7736747, lng: 9.1822322}",
+        "coords": "{\"lat\": 48.7736747, \"lng\": 9.1822322}",
         "infos": "Injeera Restaurant,\nWagnerstraße 30, 70182 Stuttgart\nPhone: 0711 46913585"
     },
     {
         "name": "Harambe Afrika Pension Restaurant",
         "city": "Stuttgart",
         "zipCode": "70597",
-        "coords": "{lat: 48.7407494, lng: 9.1534667}",
+        "coords": "{\"lat\": 48.7407494, \"lng\": 9.1534667}",
         "infos": "Harambe Afrika Pension Restaurant,\nRembrandtstraße 190, 70597 Stuttgart\nPhone: 0711 7652342"
     },
     {
         "name": "African Bistro Black White",
         "city": "Stuttgart",
         "zipCode": "70180",
-        "coords": "{lat: 48.764848, lng: 9.1706241}",
+        "coords": "{\"lat\": 48.764848, \"lng\": 9.1706241}",
         "infos": "African Bistro Black White,\nKolbstraße 17, 70180 Stuttgart"
     },
     {
         "name": "Restaurant Kilimanjaro",
         "city": "Karlsruhe",
         "zipCode": "76137",
-        "coords": "{lat: 48.9995241, lng: 8.3935711}",
+        "coords": "{\"lat\": 48.9995241, \"lng\": 8.3935711}",
         "infos": "Restaurant Kilimanjaro,\nVorholzstraße 13, 76137 Karlsruhe\nPhone: 0721 60951115"
     },
     {
         "name": "Asmara Restaurant",
         "city": "Karlsruhe",
         "zipCode": "76133",
-        "coords": "{lat: 49.0102361, lng: 8.3854148}",
+        "coords": "{\"lat\": 49.0102361, \"lng\": 8.3854148}",
         "infos": "Asmara Restaurant,\nKaiserallee 9, 76133 Karlsruhe\nPhone: 0721 2049828"
     },
     {
         "name": "Restaurant Mogogo",
         "city": "Karlsruhe",
         "zipCode": "76133",
-        "coords": "{lat: 49.0127601, lng: 8.3980044}",
+        "coords": "{\"lat\": 49.0127601, \"lng\": 8.3980044}",
         "infos": "Restaurant Mogogo,\nStephanienstraße 2A, 76133 Karlsruhe\nPhone: 0721 1208000"
     },
     {
         "name": "Wegahta",
         "city": "Karlsruhe",
         "zipCode": "76137",
-        "coords": "{lat: 49.0016973, lng: 8.3948787}",
+        "coords": "{\"lat\": 49.0016973, \"lng\": 8.3948787}",
         "infos": "Wegahta,\nAlter Brauhof 2, 76137 Karlsruhe\nPhone: 0721 47051143"
     },
     {
         "name": "KussCous",
         "city": "Karlsruhe",
         "zipCode": "76133",
-        "coords": "{lat: 49.0112782, lng: 8.3953918}",
+        "coords": "{\"lat\": 49.0112782, \"lng\": 8.3953918}",
         "infos": "KussCous,\nKarlstraße 9, 76133 Karlsruhe\nPhone: 0721 47040157"
     },
     {
         "name": "Restaurant Delices",
         "city": "Mannheim",
         "zipCode": "68165",
-        "coords": "{lat: 49.4794111, lng: 8.4765145}",
+        "coords": "{\"lat\": 49.4794111, \"lng\": 8.4765145}",
         "infos": "Restaurant Delices,\nSchwetzinger Straße 53, 68185 Mannheim\nPhone: 0621 43711882"
     },
     {
         "name": "Restaurant Afrika Mannheim",
         "city": "Mannheim",
         "zipCode": "68165",
-        "coords": "{lat: 49.4799343, lng: 8.4758779}",
+        "coords": "{\"lat\": 49.4799343, \"lng\": 8.4758779}",
         "infos": "Restaurant Afrika Mannheim,\nSchwetzinger Straße 43, 68185 Mannheim\nPhone: 0621 17822500"
     },
     {
         "name": "Black Pearl",
         "city": "Viernheim",
         "zipCode": "68519",
-        "coords": "{lat: 49.54134, lng: 8.5774636}",
+        "coords": "{\"lat\": 49.54134, \"lng\": 8.5774636}",
         "infos": "Black Pearl,\nLorscher Straße 30, 68519 Viernheim\nPhone: 06204 65384"
     },
     {
         "name": "Mesobna Restaurant",
         "city": "Viernheim",
         "zipCode": "68519",
-        "coords": "{lat: 49.5404648, lng: 8.5789422}",
+        "coords": "{\"lat\": 49.5404648, \"lng\": 8.5789422}",
         "infos": "Mesobna Restaurant,\nLudwigstraße 30, 68519 Viernheim\nPhone: 01521 0506009"
     },
     {
         "name": "Bar Selam",
         "city": "Heppenheim",
         "zipCode": "64646",
-        "coords": "{lat: 49.6416143, lng: 8.6333327}",
+        "coords": "{\"lat\": 49.6416143, \"lng\": 8.6333327}",
         "infos": "Bar Selam,\nKalterer Straße 4, 64646 Heppenheim\nPhone: 01522 9091241"
     },
     {
         "name": "La Couscousserie",
         "city": "Heidelberg",
         "zipCode": "69117",
-        "coords": "{lat: 49.4111236, lng: 8.699541}",
+        "coords": "{\"lat\": 49.4111236, \"lng\": 8.699541}",
         "infos": "La Couscousserie,\nZiegelgasse 26, 69117 Heidelberg\nPhone: 01575 2957951"
     },
     {
         "name": "Restaurant Kilimanjaro",
         "city": "Heidelberg",
         "zipCode": "69117",
-        "coords": "{lat: 49.4129985, lng: 8.707588}",
+        "coords": "{\"lat\": 49.4129985, \"lng\": 8.707588}",
         "infos": "Restaurant Kilimanjaro,\nDreikönigstraße 6, 69117 Heidelberg\nPhone: 06221 7293939"
     },
     {
         "name": "Die Maske Afrikas",
         "city": "Heidelberg",
         "zipCode": "69126",
-        "coords": "{lat: 49.3793251, lng: 8.6910683}",
+        "coords": "{\"lat\": 49.3793251, \"lng\": 8.6910683}",
         "infos": "Die Maske Afrikas,\nRathausstraße 35, 69126 Heidelberg\nPhone: 06221 380070"
     },
     {
         "name": "Afrique Unique",
         "city": "Nuremberg",
         "zipCode": "90459",
-        "coords": "{lat: 49.4429692, lng: 11.0808358}",
+        "coords": "{\"lat\": 49.4429692, \"lng\": 11.0808358}",
         "infos": "Afrique Unique,\nBogenstraße 44, 90459 Nuremberg\nPhone: 01512 5667752"
     },
     {
         "name": "Shashamane Restaurant",
         "city": "Nuremberg",
         "zipCode": "90402",
-        "coords": "{lat: 49.4484405, lng: 11.0857258}",
+        "coords": "{\"lat\": 49.4484405, \"lng\": 11.0857258}",
         "infos": "Shashamane Restaurant,\nWilly-Brandt-Platz 4, 90402 Nuremberg\nPhone: 0621 43711882"
     },
     {
         "name": "Lucy Restaurant",
         "city": "Nuremberg",
         "zipCode": "90461",
-        "coords": "{lat: 49.4398876, lng: 11.0910718}",
+        "coords": "{\"lat\": 49.4398876, \"lng\": 11.0910718}",
         "infos": "Lucy Restaurant,\nAugustenstraße 5, 90461 Nuremberg\nPhone: 0621 43711882"
     },
     {
         "name": "Madiba Afrika",
         "city": "Mainz",
         "zipCode": "55116",
-        "coords": "{lat: 49.9986904, lng: 8.2771142}",
+        "coords": "{\"lat\": 49.9986904, \"lng\": 8.2771142}",
         "infos": "Madiba Afrika,\nHeugasse 6, 55116 Mainz\nPhone: 06131 3045125"
     },
     {
         "name": "Addis Abebaye|Äthiopisches Restaurant Mainz",
         "city": "Mainz",
         "zipCode": "55116",
-        "coords": "{lat: 50.0007595, lng: 8.2606703}",
+        "coords": "{\"lat\": 50.0007595, \"lng\": 8.2606703}",
         "infos": "Addis Abebaye|Äthiopisches Restaurant Mainz,\nParcusstraße 1, 55116 Mainz\nPhone: 06131 2401998"
     },
     {
         "name": "Im Herzen Afrikas",
         "city": "Mainz",
         "zipCode": "55116",
-        "coords": "{lat: 49.9965065, lng: 8.2678874}",
+        "coords": "{\"lat\": 49.9965065, \"lng\": 8.2678874}",
         "infos": "Im Herzen Afrikas,\nGaustraße 38, 55116 Mainz\nPhone: 06131 3808111"
     },
     {
         "name": "Mama Of Africa Wiesbaden",
         "city": "Wiesbaden",
         "zipCode": "65195",
-        "coords": "{lat: 50.0824139, lng: 8.2251104}",
+        "coords": "{\"lat\": 50.0824139, \"lng\": 8.2251104}",
         "infos": "Mama Of Africa Wiesbaden,\nWestendstraße 30, 65195 Wiesbaden\nPhone: 0611 1717297"
     },
     {
         "name": "LauVick cuisine Afrikanisches Restaurant",
         "city": "Wiesbaden",
         "zipCode": "55252",
-        "coords": "{lat: 50.007792, lng: 8.285437}",
+        "coords": "{\"lat\": 50.007792, \"lng\": 8.285437}",
         "infos": "LauVick cuisine Afrikanisches Restaurant,\nFrankfurter Straße 16, 55252 Wiesbaden\nPhone: 06134 5666325"
     },
     {
         "name": "Oji Best Africano",
         "city": "Bonn",
         "zipCode": "53111",
-        "coords": "{lat: 50.7423836, lng: 7.0989459}",
+        "coords": "{\"lat\": 50.7423836, \"lng\": 7.0989459}",
         "infos": "Oji Best Africano,\nRosental 9, 53111 Bonn\nPhone: 0228 4339977"
     },
     {
         "name": "Red Sea Restaurant",
         "city": "Bonn",
         "zipCode": "55111",
-        "coords": "{lat: 50.7356195, lng: 7.0950016}",
+        "coords": "{\"lat\": 50.7356195, \"lng\": 7.0950016}",
         "infos": "Red Sea Restaurant,\nThomas-Mann-Straße 24, 53111 Bonn\nPhone: 0228 96599271"
     },
     {
         "name": "the protea restaurant",
         "city": "Bonn",
         "zipCode": "53113",
-        "coords": "{lat: 50.7359359, lng: 7.1054074}",
+        "coords": "{\"lat\": 50.7359359, \"lng\": 7.1054074}",
         "infos": "the protea restaurant,\nRheingasse 5, 53113 Bonn\nPhone: 0228 96954122"
     },
     {
         "name": "Africa Drum nigerianisches Restaurant",
         "city": "Cologne",
         "zipCode": "50668",
-        "coords": "{lat: 50.9504221, lng: 6.9582738}",
+        "coords": "{\"lat\": 50.9504221, \"lng\": 6.9582738}",
         "infos": "Africa Drum nigerianisches Restaurant,\nEbertplatz 1, 50668 Cologne\nPhone: 0221 7197895"
     },
     {
         "name": "Just Try Afro Soul Food",
         "city": "Cologne",
         "zipCode": "50825",
-        "coords": "{lat: 50.9540256, lng: 6.9199945}",
+        "coords": "{\"lat\": 50.9540256, \"lng\": 6.9199945}",
         "infos": "Just Try Afro Soul Food,\nSubbelrather Straße 242, 50825 Cologne\nPhone: 0162 6886553"
     },
     {
         "name": "Shaka Zulu",
         "city": "Cologne",
         "zipCode": "50672",
-        "coords": "{lat: 50.9399235, lng: 6.9383288}",
+        "coords": "{\"lat\": 50.9399235, \"lng\": 6.9383288}",
         "infos": "Shaka Zulu,\nLimburger Straße 29, 50672 Cologne\nPhone: 0221 16862814"
     },
     {
         "name": "Injera Restaurant",
         "city": "Cologne",
         "zipCode": "50674",
-        "coords": "{lat: 50.9323927, lng: 6.933224}",
+        "coords": "{\"lat\": 50.9323927, \"lng\": 6.933224}",
         "infos": "Injera Restaurant,\nLindenstraße 86, 50674 Cologne\nPhone: 0221 9984942"
     },
     {
         "name": "Hdmona",
         "city": "Cologne",
         "zipCode": "50678",
-        "coords": "{lat: 50.9186698, lng: 6.964349}",
+        "coords": "{\"lat\": 50.9186698, \"lng\": 6.964349}",
         "infos": "Hdmona,\nEburonenstraße 1, 50678 Cologne\nPhone: 0221 27848949"
     },
     {
         "name": "Fasika Restaurant",
         "city": "Cologne",
         "zipCode": "50674",
-        "coords": "{lat: 50.9281165, lng: 6.9407432}",
+        "coords": "{\"lat\": 50.9281165, \"lng\": 6.9407432}",
         "infos": "Fasika Restaurant,\nLuxemburger Straße 17, 50674 Cologne\nPhone: 0221 4204891"
     },
     {
         "name": "Selam Restaurant",
         "city": "Cologne",
         "zipCode": "50823",
-        "coords": "{lat: 50.9510444, lng: 6.9171023}",
+        "coords": "{\"lat\": 50.9510444, \"lng\": 6.9171023}",
         "infos": "Selam Restaurant,\nEhrenfeldgürtel 91, 50823 Cologne\nPhone: 0221 9520352"
     },
     {
         "name": "Greenland Afro/Caribic Restaurant",
         "city": "Düsseldorf",
         "zipCode": "40227",
-        "coords": "{lat: 51.2121978, lng: 6.8074021}",
+        "coords": "{\"lat\": 51.2121978, \"lng\": 6.8074021}",
         "infos": "Greenland Afro/Caribic Restaurant,\nKölner Straße 284, 40227 Düsseldorf"
     },
     {
         "name": "Zambezi Springs",
         "city": "Hannover",
         "zipCode": "30159",
-        "coords": "{lat: 52.3727794, lng: 9.7336319}",
+        "coords": "{\"lat\": 52.3727794, \"lng\": 9.7336319}",
         "infos": "Zambezi Springs,\nKnochenhauerstraße 23, 30159 Hannover\nPhone: 01578 7570845"
     },
     {
         "name": "Mommies Corner",
         "city": "Bremen",
         "zipCode": "28199",
-        "coords": "{lat: 53.071301, lng: 8.789882}",
+        "coords": "{\"lat\": 53.071301, \"lng\": 8.789882}",
         "infos": "Mommies Corner,\nLangemarckstraße 128, 28199 Bremen\nPhone: 0421 5244949"
     },
     {
         "name": "Christy's",
         "city": "Bremen",
         "zipCode": "28195",
-        "coords": "{lat: 53.079753, lng: 8.7995381}",
+        "coords": "{\"lat\": 53.079753, \"lng\": 8.7995381}",
         "infos": "Christy's,\nHankenstraße 27, 28195 Bremen\nPhone: 0421 1638086"
     },
     {
         "name": "Novazena",
         "city": "Bremen",
         "zipCode": "28199",
-        "coords": "{lat: 53.0709213, lng: 8.7957417}",
+        "coords": "{\"lat\": 53.0709213, \"lng\": 8.7957417}",
         "infos": "Novazena,\nNeustadtswall 81, 28199 Bremen\nPhone: 0421 9597777"
     },
     {
         "name": "Mataa's Kitchen",
         "city": "Bremen",
         "zipCode": "28217",
-        "coords": "{lat: 53.0962379, lng: 8.7840119}",
+        "coords": "{\"lat\": 53.0962379, \"lng\": 8.7840119}",
         "infos": "Mataa's Kitchen,\nElisabethstraße 118, 28217 Bremen\nPhone: 0421 89782372"
     },
     {
         "name": "Afrikanisches Bistro by Hadjia",
         "city": "Hamburg",
         "zipCode": "20097",
-        "coords": "{lat: 53.0709213, lng: 8.7957417}",
+        "coords": "{\"lat\": 53.5486084, \"lng\": 10.0134725}",
         "infos": "Afrikanisches Bistro by Hadjia,\nRepsoldstraße 49, 20097 Hamburg\nPhone: 0421 9597777"
     },
     {
         "name": "Papaye Restaurant Afrikanisches Restaurant",
         "city": "Hamburg",
         "zipCode": "20049",
-        "coords": "{lat: 53.5765628, lng: 10.05964}",
+        "coords": "{\"lat\": 53.5765628, \"lng\": 10.05964}",
         "infos": "Papaye Restaurant Afrikanisches Restaurant,\nStormarner Straße 1, 22049 Hamburg\nPhone: 040 50699541"
     },
     {
         "name": "Bejte Ethiopia",
         "city": "Berlin",
         "zipCode": "10783",
-        "coords": "{lat: 52.4993517, lng: 13.3570701}",
+        "coords": "{\"lat\": 52.4993517, \"lng\": 13.3570701}",
         "infos": "Bejte Ethiopia,\nZietenstraße 8, 10783 Berlin\nPhone: 030 2625933"
     },
     {
         "name": "YAAM",
         "city": "Berlin",
         "zipCode": "10997",
-        "coords": "{lat: 52.5098465, lng: 13.4302553}",
+        "coords": "{\"lat\": 52.5098465, \"lng\": 13.4302553}",
         "infos": "YAAM,\nAn der Schillingbrücke 3, 10997 Berlin\nPhone: 030 6151354"
     },
     {
         "name": "Massai-Berlin",
         "city": "Berlin",
         "zipCode": "10437",
-        "coords": "{lat: 52.5418515, lng: 13.4156678}",
+        "coords": "{\"lat\": 52.5418515, \"lng\": 13.4156678}",
         "infos": "Massai-Berlin,\nLychener Straße 12, 10437 Berlin\nPhone: 030 48625595"
     },
     {
         "name": "Langano",
         "city": "Berlin",
         "zipCode": "10999",
-        "coords": "{lat: 52.4965238, lng: 13.418329}",
+        "coords": "{\"lat\": 52.4965238, \"lng\": 13.418329}",
         "infos": "Langano,\nKohlfurter Straße 44, 10999 Berlin\nPhone: 030 61507103"
     },
     {
         "name": "Nil Sudanesischer Imbiss",
         "city": "Berlin",
         "zipCode": "10245",
-        "coords": "{lat: 52.5118348, lng: 13.4556012}",
+        "coords": "{\"lat\": 52.5118348, \"lng\": 13.4556012}",
         "infos": "Nil Sudanesischer Imbiss,\nGrünberger Straße 52, 10245 Berlin\nPhone: 030 29047714"
     },
     {
         "name": "Savanna",
         "city": "Berlin",
         "zipCode": "10435",
-        "coords": "{lat: 52.5382649, lng: 13.4164033}",
+        "coords": "{\"lat\": 52.5382649, \"lng\": 13.4164033}",
         "infos": "Savanna,\nSredzkistraße 26, 10435 Berlin\nPhone: 030 44318621"
     },
     {
         "name": "Blue Nile",
         "city": "Berlin",
         "zipCode": "10963",
-        "coords": "{lat: 52.4978603, lng: 13.3873565}",
+        "coords": "{\"lat\": 52.4978603, \"lng\": 13.3873565}",
         "infos": "Blue Nile,\nTempelhofer Ufer 6, 10963 Berlin\nPhone: 030 25294655"
     },
     {
         "name": "Muday",
         "city": "Berlin",
         "zipCode": "10245",
-        "coords": "{lat: 52.5123703, lng: 13.4538478}",
+        "coords": "{\"lat\": 52.5123703, \"lng\": 13.4538478}",
         "infos": "Muday,\nGrünberger Straße 33, 10245 Berlin\nPhone: 0176 22630367"
     },
     {
         "name": "Ebe Ano",
         "city": "Berlin",
         "zipCode": "10779",
-        "coords": "{lat: 52.494015, lng: 13.3374765}",
+        "coords": "{\"lat\": 52.494015, \"lng\": 13.3374765}",
         "infos": "Ebe Ano,\nBamberger Straße 49, 10779 Berlin\nPhone: 0176 82043405"
     },
     {
         "name": "Bantou Village",
         "city": "Berlin",
         "zipCode": "13351",
-        "coords": "{lat: 52.5517957, lng: 13.3485215}",
+        "coords": "{\"lat\": 52.5517957, \"lng\": 13.3485215}",
         "infos": "Bantou Village,\nKameruner Straße 2, 13351 Berlin\nPhone: 030 45797636"
     }
 ]
