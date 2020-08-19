@@ -9,4 +9,4 @@ What I found easy: concept, design <br>
 What I found difficult: markers automation, formatting coordinates for the JSON files <br>
 
 As soon as we learn how to build mobile apps, this project will be extended and users will be able to register their shop, club or restaurant. 
-# JS-Project-SPA
+
