@@ -180,7 +180,7 @@ advertise_btn.addEventListener('click', getAd);
 function getAd(e) {
     reloadSearch();
     const paraAd = document.createElement('p');
-    paraAd.innerHTML = '<a href="#"> Contact us</a> to be featured here.';
+    paraAd.innerHTML = '<a href="https://www.instagram.com/springtime.energy/"> Contact us</a> to be featured here.';
     search_results.appendChild(paraAd);
     form.style.display = "none";
     setTimeout(function(){
