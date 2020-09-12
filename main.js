@@ -16,7 +16,7 @@ const map_container = document.getElementById('map-container');
 
 // Google maps API
 let map;
-// let map = new google.maps.Map(map_container, options);
+
 let options = {
     zoom: 8,
     center: {lat: 53.5511, lng: 9.9937}
@@ -24,18 +24,20 @@ let options = {
 
 function initMap() { 
     map = new google.maps.Map(map_container, options);
-    addNewMarkers({
-        coords: {lat: 53.5811744, lng: 9.9347062},
-        name: '<h3> You\'re here </h3>'
-    });
+    // addNewMarkers({
+    //     coords: {lat: 53.5811744, lng: 9.9347062},
+    //     name: '<h3> You\'re here </h3>'
+    // });
 }
 
-// Public Function add new markers
+// Public function add new markers
+let markersArray = []; // keep track of all the markers we're adding to the page
+
 function addNewMarkers(props) {
 
     const marker = new google.maps.Marker({
         position: props.coords,
-        map: map 
+        map: map
     });
     
     const infoWindow = new google.maps.InfoWindow({
@@ -44,14 +46,37 @@ function addNewMarkers(props) {
 
     marker.addListener('click', function() {
         infoWindow.open(map, marker);
-    })
+    });
+    
+    markersArray.push(marker);
 };
+
+// Sets the map on all markers in the array.
+function setMapOnAll(map) {
+    for (let i = 0; i < markersArray.length; i++) {
+      markersArray[i].setMap(map);
+    }
+  };
+// Refresh search results
+function reloadDiv() {
+    search_results.innerHTML = ' ';
+};
+// Refresh map and search results
+function reloadSearch() {
+   setMapOnAll(null);
+   reloadDiv();
+};
+
+// Center the map to geocoded IP
+// Recenter map to search results
 
 
 // MAIN SEARCHBAR
 shops_btn.addEventListener('click', getShops);
 
 function getShops(e) {
+    reloadSearch();
+    
     // Input value variable
     const inputVal = searchbar.value;
 
@@ -61,7 +86,7 @@ function getShops(e) {
         })
         .then(function(data) {
 
-                let newArray = data.filter(function(obj) {
+                let newArray = data.filter(function(obj) { // new array = list of shops
                 if(obj.zipCode === inputVal || obj.city === inputVal) {
                     return obj;
                 }
@@ -86,6 +111,7 @@ function getShops(e) {
 restaurants_btn.addEventListener('click', getRestaurants);
 
 function getRestaurants(e) {
+    reloadSearch();
     // Input value variable
     const inputVal = searchbar.value;
 
@@ -119,6 +145,7 @@ function getRestaurants(e) {
 clubs_btn.addEventListener('click', getClubs);
 
 function getClubs(e) {
+    reloadSearch();
     // Input value variable
     const inputVal = searchbar.value;
 
@@ -153,6 +180,7 @@ function getClubs(e) {
 // advertise
 advertise_btn.addEventListener('click', getAd);
 function getAd(e) {
+    reloadSearch();
     const paraAd = document.createElement('p');
     paraAd.innerHTML = '<a href="#"> Contact us</a> to be featured here.';
     search_results.appendChild(paraAd);
@@ -163,21 +191,21 @@ function getAd(e) {
 };
 
 // sign in or join
-login_btn.addEventListener('click', loginForm);
-const form = document.getElementById('form');
-function loginForm(e) {
-    form.style.display = "block";
-}
+// login_btn.addEventListener('click', loginForm);
+// const form = document.getElementById('form');
+// function loginForm(e) {
+//     form.style.display = "block";
+// }
 
 // help
 help_btn.addEventListener('click', getHelp);
 function getHelp(e) {
+    reloadSearch();
     const paraHelp = document.createElement('p');
-    paraHelp.innerHTML = 'We are not available at the moment, please try again later.';
+    paraHelp.innerHTML = 'We\'re not available at the moment, please try again later.';
     const helpMeme = document.createElement('div');
     helpMeme.classList.add('helpmeme');
     helpMeme.innerHTML = '<iframe src="https://giphy.com/embed/UVeILcYrYq2PpTE4u6" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/king-of-boys-kingofboys-kemi-salami-UVeILcYrYq2PpTE4u6"></a></p>';
-    form.style.display = "none";
     search_results.appendChild(paraHelp);
     search_results.appendChild(helpMeme);
     setTimeout(function(){
@@ -196,8 +224,9 @@ const termsOfUse = document.getElementById('terms');
 aboutBtn.addEventListener('click', displayAbout);
 
 function displayAbout() {
+    reloadSearch();
     const aboutUs = document.createElement('p');
-    aboutUs.innerHTML = 'Afro Shop Finder is an application created in Hamburg in August 2020. <br> It helps you find afro shops, clubs and restaurants across Germany <br> thanks to a city or ZIP code search. <br> Your restaurant, club or shop does not appear in the search results? <br> Join <a href="#">here</a>.'
+    aboutUs.innerHTML = 'Afro Shop Finder is an application created in Hamburg in August 2020. <br> It helps you find afro shops, clubs and restaurants across Germany <br> thanks to a city or ZIP code search.'
     search_results.appendChild(aboutUs);
 };
 
@@ -205,6 +234,7 @@ function displayAbout() {
 privacyBtn.addEventListener('click', displayPrivacy);
 
 function displayPrivacy() {
+    reloadSearch();
     const privacyTitle = document.createElement('h1');
     privacyTitle.innerHTML = 'Afro Shop Finder Privacy Policy';
     search_results.appendChild(privacyTitle);
@@ -217,6 +247,7 @@ function displayPrivacy() {
 cookiePref.addEventListener('click', displayCookiePref);
 
 function displayCookiePref() {
+    reloadSearch();
     const cookiePrefImg = document.createElement('img');
     cookiePrefImg.classList.add('cookiePrefImg');
     cookiePrefImg.src = './img/cookie_preference.jpg';
@@ -230,17 +261,11 @@ function displayCookiePref() {
 termsOfUse.addEventListener('click', displayTerms)
 
 function displayTerms() {
+    reloadSearch();
     const termsTitle = document.createElement('h1');
     termsTitle.innerHTML = 'Terms and Conditions';
     search_results.appendChild(termsTitle);
     const termsText = document.createElement('p');
     termsText.innerHTML = 'The purpose of a Terms and Conditions agreement is to prevent misunderstandings between the business owner (you), and the consumer. The agreement helps you: <br>Protect your intellectual property <br> Avoid website abuse <br> Define the limits of your legal obligations to the consumer <br> Essentially, the T&C helps you run your business more effectively <br> and with greater peace of mind. <br> This agreement forms the basis of an enforceable legal relationship. <br> It tells anyone browsing your website, whether they are a casual visitor or an active client, what their legal responsibilities and rights are.<br> It also gives you, as the business owner and service provider, authority over certain undesirable things that a consumer may do on your website. <br> However, let us consider the specific reasons why business owners should always include a Terms and Conditions agreement on their website.'
     search_results.appendChild(termsText);
-
-}
-
-// Upcoming features
-
-function myAlert() {
-    return alert ('Save Search feature coming soon!');
 }
