@@ -69,10 +69,6 @@ function reloadSearch() {
    reloadDiv();
 };
 
-// Center the map to geocoded IP
-// Recenter map to search results
-
-
 // MAIN SEARCHBAR
 shops_btn.addEventListener('click', getShops);
 
