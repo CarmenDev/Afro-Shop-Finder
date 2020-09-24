@@ -1848,6 +1848,27 @@
         "infos": "modernhaircreations.com\nAfro Beauty Salon Modern Hair Creations,\nLübecker Straße 82, 22087 Hamburg\nPhone: 040 28055481"
     },
     {
+        "name": "Afro Markt",
+        "city": "Hamburg",
+        "zipCode": "22111",
+        "coords": "{\"lat\": 53.5541442, \"lng\": 10.0831284}",
+        "infos": "Afro Markt (Inhaber Anthony Badu-Afriyie)\nRennbahnstraße 29, 22111 Hamburg\nPhone: 040 2276875"
+    },
+    {
+        "name": "Zodiak Afro Shop",
+        "city": "Hamburg",
+        "zipCode": "22111",
+        "coords": "{\"lat\": 53.5468813, \"lng\": 10.0854228}",
+        "infos": "Zodiak Afro Shop\nHorner Landstraße 306, 22111 Hamburg"
+    },
+    {
+        "name": "Veer Afro Shop International Supermarket",
+        "city": "Hamburg",
+        "zipCode": "22111",
+        "coords": "{\"lat\": 53.5445377, \"lng\": 10.0899313}",
+        "infos": "Veer Afro Shop International Supermarket\nHorner Landstraße 358, 22111 Hamburg"
+    },
+    {
         "name": "Abi Afrika Markt",
         "city": "Kiel",
         "zipCode": "24114",
