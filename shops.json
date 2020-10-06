@@ -4,55 +4,55 @@
         "city": "Mannheim",
         "zipCode": "68169",
         "coords": "\"{lat\": 49.4975732, \"lng\": 8.4711448}",
-        "infos": "DREAM AFRO SHOP MANNHEIM, Mittelstraße 13, 68169 Mannheim\nPhone: 01521 4291789"
+        "infos": "DREAM AFRO SHOP MANNHEIM, \nMittelstraße 13, 68169 Mannheim\nPhone: 01521 4291789"
     },
     {
         "name": "Afro Shop Mannheim Style by Jimmy Beauty & Barber Shop",
         "city": "Mannheim",
         "zipCode": "68161",
-        "coords": "{\"lat\": 49.4827566, \"lng\": 8.4731227}",
-        "infos": "Afro Shop Mannheim Style by Jimmy Beauty & Barber Shop,\nKaiserring, 68161 Mannheim\nPhone: 0176 43657296"
+        "coords": "{\"lat\": 49.4817298, \"lng\": 8.4723562}",
+        "infos": "Afro Shop Mannheim Style by Jimmy Beauty & Barber Shop,\nKaiserring 26-28, 68161 Mannheim\nPhone: 0176 43657296"
     },
     {
         "name": "Orange Friseuren Extension Make-up & Beautyshop",
         "city": "Mannheim",
         "zipCode": "68161",
-        "coords": "{\"lat\": 49.4901509, \"lng\": 8.4701106}",
+        "coords": "{\"lat\": 49.4897131, \"lng\": 8.4681066}",
         "infos": "Orange Friseuren Extension Make-up & Beautyshop,\nS2 11, 68161 Mannheim\nPhone: 0621 1819436"
     },
     {
         "name": "SJ Asian Afro Store Mannheim",
         "city": "Mannheim",
         "zipCode": "68161",
-        "coords": "{\"lat\": 49.0603959, \"lng\": 9.3221238}",
+        "coords": "{\"lat\": 49.4903333, \"lng\": 8.4673024}",
         "infos": "SJ Asian Afro Store Mannheim, S1 11, 68161 Mannheim\nPhone: 0621 86243212"
     },
     {
         "name": "Mother Indias Black&White Afro-Kosmetik-Store",
         "city": "Mannheim",
         "zipCode": "68161",
-        "coords": "{\"lat\": 49.9600852, \"lng\": 8.3917333}",
+        "coords": "{\"lat\": 49.4900918, \"lng\": 8.4680853}",
         "infos": "Mother Indias Black&White Afro-Kosmetik-Store,\nT2 20, 68161 Mannheim\nPhone: 0621 43769300"
     },
     {
         "name": "Charles Barber Shop",
         "city": "Mannheim",
         "zipCode": "68161",
-        "coords": "{\"lat\": 49.8151121, \"lng\": 8.0260259}",
+        "coords": "{\"lat\": 49.4898689, \"lng\": 8.4688506}",
         "infos": "Charles Barber Shop,\nT3 23, 68161 Mannheim\nPhone: 0621 17298723"
     },
     {
         "name": "Odeal Beauty Shop",
         "city": "Mannheim",
         "zipCode": "68161",
-        "coords": "{\"lat\": 50.933531, \"lng\": 7.2723639}",
+        "coords": "{\"lat\": 49.4903631, \"lng\": 8.4690064}",
         "infos": "Odeal Beauty Shop,\nT3 6, 68161 Mannheim\nPhone: 0621 18150563"
     },
     {
         "name": "Afro Markt Jubin/Kotoko",
         "city": "Mannheim",
         "zipCode": "68161",
-        "coords": "{\"lat\": 48.8240253, \"lng\": 7.9248544}",
+        "coords": "{\"lat\": 49.4854937, \"lng\": 8.4644329}",
         "infos": "Afro Markt Jubin/Kotoko,\nN3 18, 68161 Mannheim\nPhone: 0621 1225762"
     },
     {
@@ -665,6 +665,13 @@
         "infos": "Chriskes Afro Shop,\nRheinstraße 69, 65185 Wiesbaden\nPhone: 0611 18171740"
     },
     {
+        "name": "Home Afrika Afro Shop",
+        "city": "Wiesbaden",
+        "zipCode": "65185",
+        "coords": "{\"lat\": 50.0768432, \"lng\": 8.2329093}",
+        "infos": "Home Afrika Afro Shop,\nWörthstraße 16, 65185 Wiesbaden\nPhone: 0611 36082949"
+    },
+    {
         "name": "Afro-Shop Si.",
         "city": "Worms",
         "zipCode": "67547",
@@ -684,6 +691,34 @@
         "zipCode": "55116",
         "coords": "{\"lat\": 49.9959172, \"lng\": 8.2674964}",
         "infos": "Afro Hair Braiding Mainz,\nGaustraße 37, 55116 Mainz\nPhone: 01521 8126168"
+    },
+    {
+        "name": "The CapeHouse",
+        "city": "Mainz",
+        "zipCode": "55116",
+        "coords": "{\"lat\": 49.996947, \"lng\": 8.2735068}",
+        "infos": "The CapeHouse,\nKirschgarten 22, 55116 Mainz\nPhone: 06131 9727857"
+    },
+    {
+        "name": "CONTIGO Fairtrade Shop Mainz",
+        "city": "Mainz",
+        "zipCode": "55116",
+        "coords": "{\"lat\": 49.9966127, \"lng\": 8.2752928}",
+        "infos": "CONTIGO Fairtrade Shop Mainz,\nAugustinenstraße 24, 55116 Mainz\nPhone: 06131 9012660"
+    },
+    {
+        "name": "SHAIYAN'S",
+        "city": "Mainz",
+        "zipCode": "55116",
+        "coords": "{\"lat\": 50.0015111, \"lng\": 8.2630955}",
+        "infos": "SHAIYAN'S,\nGärtnergasse 16, 55116 Mainz\nPhone: 06131 9080686"
+    },
+    {
+        "name": "Afroshop Barkwende",
+        "city": "Bad Kreuznach",
+        "zipCode": "55543",
+        "coords": "{\"lat\": 49.8421911, \"lng\": 7.8632907}",
+        "infos": "Afroshop Barkwende,\nWormser Straße 8, 55543 Bad Kreuznach\nPhone: 0671 21088333"
     },
     {
         "name": "NHYIRA AFRO-SHOP",
